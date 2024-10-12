@@ -1,3 +1,20 @@
+Package: com.yourepo.cydiageek.twitterlabelback
+Architecture: iphoneos-arm64e
+Name: TwitterLabelBack
+Version: 1.0.0
+Description: Bring Back Old Twitter Label Name!
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.yourepo.cydiageek.twitterlabelback_1.0.0_iphoneos-arm64e.deb
+Size: 4848
+MD5: ca1ee09e614a7e657780c154427a5bf6
+SHA1: 695778474555a3fc540d105619e639c90764348b
+SHA256: e6794a38684350d4e4fe25e193c11b24a834d900e669cd09bc33a5c65b551f09
+SHA512: 496cc77296a0b5e61e5810383e54e9615b833bc3bb02ab9076066d4417c6170a91c27f1ed20b4af8884130e9e7fa9db3f6cd7b587a95a881ebce2305e5a6e757
+
 Name: Apps Manager
 Package: com.tigisoftware.appdatamanager
 Priority: optional

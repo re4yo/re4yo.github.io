@@ -1,0 +1,8 @@
+Origin: an awesome repo for you
+Label: re4yo
+Suite: stable
+Version: 1.0
+Codename: re4yo
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: repo for you

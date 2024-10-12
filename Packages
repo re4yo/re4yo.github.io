@@ -6,7 +6,7 @@ Version: 1.8.2-5
 Architecture: iphoneos-arm64e
 Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
-Depiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/refs/heads/main/re4yo.json
+SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/refs/heads/main/re4yo.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: TIGI Software <satashi2009@gmail.com>

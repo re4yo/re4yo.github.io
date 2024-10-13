@@ -1,3 +1,21 @@
+Package: com.0xkuj.backgrounderaction15autostate
+Name: BackgrounderAction15AutoState
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: jp.akusio.backgrounderaction15, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.backgrounderaction15autostate_1.0.3_iphoneos-arm64e.deb
+Size: 25040
+MD5: 0a2349dc0e597a8269af3615bcc3a98a
+SHA1: 4005ef707b7edd2c8176cf7dd98f6fb9bbe0f36c
+SHA256: fb6bc3f93e8a6191ad235d960610f3cc84e0914b34094aee235a149759e77102
+SHA512: 8f6a96bed96f8e6d75715b09c79772f7f971c4ef19c3335f435842b66e08224bec4cf43cf6e96ed60c9abbc163d3667ef38f7c4955716d6583d41f0b123a500c
+
 Package: com.0xkuj.nopastealerts16
 Name: NoPasteAlerts16
 Description: Remove the annoying paste confirmation added on iOS 16

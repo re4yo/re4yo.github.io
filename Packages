@@ -1,3 +1,21 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.39
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 15.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.4.39_iphoneos-arm64e.deb
+Size: 4501600
+MD5: 85b688ae62c590ea5e5f23fa6dc6af0d
+SHA1: ce959842068b42914af43290877f0b6f67c01205
+SHA256: 582c7d0e4ce701a03f464d38dff36ba2d253efb450bee28b2fc35b9160994f67
+SHA512: 5e1ed8a3ab8206a7a9b982c5c75f11787cd2a675a1db7463fc7b7a4353c0663e20da5a6a31ced2ca9317d5fa7721c8fd411f2f0891aabc16e7bf938f242d9599
+
 Package: com.julioverne.goodwifi
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader

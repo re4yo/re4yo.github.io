@@ -1,3 +1,20 @@
+Package: com.0xkuj.iparanger
+Architecture: iphoneos-arm64e
+Name: IPA Ranger
+Version: 1.9
+Description: GUI Based Application for ipatool
+Author: 0xkuj <0xkujz@gmail.com>
+Section: Addons
+Depends: gawk, unzip, plutil
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.iparanger_1.9_iphoneos-arm64e.deb
+Size: 1125400
+MD5: e40f539b10d9d34d7dd65a3bda651b88
+SHA1: bce21483b722ab4e2cb48ea4133f7441a1299093
+SHA256: f5c652778d3a5468388396f63e8fa8dde427ef1c60074729e91ed1f479e8cd81
+SHA512: c17d28e1abb3c90425c38a5f5e8e1992ad862234daab81e818c14e17513d96a0b98389d2e5b57ae1afc91bca5ba1d7ee5c42df085af08d75d43c3083bdb31bb1
+
 Author: @CrazyMind90 <CvCrazyMind@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CrossOverIPC ~ Rootless

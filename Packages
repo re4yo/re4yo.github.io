@@ -1,3 +1,30 @@
+Name: PMP
+Package: pro.ikghd.pmp
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, firmware(>= 15.0), com.opa334.ccsupport
+Conflicts: com.yourepo.ikghd.pmp
+Version: 1.9
+Architecture: iphoneos-arm64e
+Description: PMP Protect My Photos!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protectmyphotosDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protectmyphotosDp
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.pmp.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: iKG_HD <ikg_hd@bk.ru>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 776
+dev: ikghd
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/pro.ikghd.pmp_1.9_iphoneos-arm64e.deb
+Size: 53372
+MD5: 8a5dc660ee7fd50b97fd38b000a4f98e
+SHA1: ec3459b47e51cbd2f26dd2d3d9fd3d2dcfd44dde
+SHA256: f067636bd77aca973cea0ec7aec11eb815c85a632012f2070d10c9d2920f745b
+SHA512: 484b5d0fc58f31eb7fc41c3146da1e27e488e9386564ba8f5f7359d28a76f7c306900cff13beb357918f4fb8c3e7985abee830b36fd1b68d95d2cb1a518511f0
+
 Name: BlockAppUpdate
 Package: cn.zqbb.disupdateapp
 Priority: optional

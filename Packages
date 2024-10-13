@@ -1,3 +1,24 @@
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4-rootless
+Installed-Size: 3268
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
+Size: 1115484
+MD5: 9d29dd56391367e347b2a209627c0eaa
+SHA1: e80444f27cd53d3485f366d1034c5b7e989fd883
+SHA256: d383d15b4940b88eb5317fac095989ce5db2fdc2f96d07c968e15f3f79c4286f
+SHA512: 4ebbf9121a1375311774851bfdafc7744d542be8413ed3231983880e63799f42ecd51baa0b825c9431b030c8e84a7f3193eadf7dcc5bb15e227a29c2d3b926b9
+
 Package: com.0xkuj.iparanger
 Architecture: iphoneos-arm64e
 Name: IPA Ranger

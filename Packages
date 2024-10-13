@@ -1,3 +1,22 @@
+Package: jp.r-plus.menusupport
+Name: MenuSupport
+Depends: mobilesubstrate, firmware (>= 11.0)
+Description: Simply plugin loader for iOS system menu.
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/jp.r-plus.menusupport_1.3.0_iphoneos-arm64e.deb
+Size: 35612
+MD5: d171d6ed48d75bc93fb8077c9e5960e6
+SHA1: a76c5a2b441eddbee4abf11212a71e4b7b9b877b
+SHA256: 6523b02ce304b3bb3efd900096f8ef46519621618b71cf35cf79404af42610b5
+SHA512: f8709fbf59904165e4b339bf887b09b4181884a42003c53bf40ac6e93337bc1b1e8341f6c78cafcebd6fa6a28a4798c45b1a55a7ad20023bcec9590cb01686ec
+
 Package: com.0xkuj.backgrounderaction15autostate
 Name: BackgrounderAction15AutoState
 Description: Save Action state for BackgrounderAction15 CC Toggle

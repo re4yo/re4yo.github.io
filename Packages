@@ -1,3 +1,21 @@
+Package: com.nahtedetihw.closeall
+Name: CloseAll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 208
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm64e.deb
+Size: 21280
+MD5: 8c98e46f831d27d2af5df063a2fd477f
+SHA1: 9a511192f68251ece666a7ff4054e523b06ed9e9
+SHA256: f50b3db168e5dae5c868ef35b6bade8ba91d1c026cb2ed9ece3a4c76769ea8b3
+SHA512: da92f950726d3831f2c945a6e7e2d924db8e3fdb366a561801dd1b18639a9ee07db83d4524085da891dce77e7c75259eeac6af1e9cd1175696e41bf8be97a289
+
 Package: com.opa334.cranelite
 Name: Crane Lite
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)

@@ -526,26 +526,6 @@ SHA1: 5ba8f7670b2e959bbaddb1f7457f06dd9f008f12
 SHA256: 21dbbae64144e73b7ff4e5545384149801b83fc497bd4da43f535bf4b3c062e5
 SHA512: f2d19d5810103189e1a0b9719d0c7e236955765cabd1bee3618be361188cc21ec8dd75805c176e5c7d254842a97ccbc217b5bfaeceb52cd3a83e28f955c122cb
 
-Package: com.foxfort.libfoxfortutils
-Name: libfoxfortutils
-Depends: firmware (>= 11.0), com.opa334.libsandy
-Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
-Description: library for Foxfort tweaks
-Maintainer: FoxfortMobile
-Author: FoxfortMobile
-Section: Development
-Tag: role::developer
-Architecture: iphoneos-arm64e
-Version: 1.4.7
-Installed-Size: 1288
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.foxfort.libfoxfortutils_1.4.7_iphoneos-arm64e.deb
-Size: 279972
-MD5: 93f4c508e0b589643432ba9ed276da1c
-SHA1: e3828c09a98807178c98bb51910d7dfcbaa566b0
-SHA256: ab80c1bc40d2f922d9440e1345eff137335fe09559d155b6974293d67225fe51
-SHA512: 8169d6bc187206610dbf270ce4584dcf4743f04d0d981bcf9b0db5ffa024421c9c87fe06eb5c4d29200ca365a68e2622fcacf4a6221bb3d7ee0b14fbf667b872
-
 Package: com.foxfort.skinnymenu
 Name: SkinnyMenu
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils

@@ -1,3 +1,24 @@
+Package: xyz.skitty.spectrum
+Name: Spectrum
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Description: Customize system colors!
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Maintainer: Skitty
+Author: Skitty & EvenDev
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 580
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.skitty.spectrum_1.1_iphoneos-arm64e.deb
+Size: 58472
+MD5: 40b6a7ad474d22b74f1ee6bfa8de0e54
+SHA1: 943a9ba1c0ab104476e88d05477769f87c9d3ad3
+SHA256: c95986191e26fb33a9400ca31bc04996e75ecb7e2fdef9aff55c6afdb8bd19dd
+SHA512: ab30d6c1aef3a8be67a69114727cfba7fc45d77655e8c317325064c377503cef7a73d94dfdd34017a96a87997bc9207d355442a25aed3d392fa879b9955c2a4c
+
 Package: libskittycolor
 Name: libskittycolor
 Description: A simple color picker implementation.

@@ -1,3 +1,22 @@
+Package: com.netskao.appdata
+Name: AppData
+Description: View & Manage Applications Data from your Home Screen & downgrade apps.
+Conflicts: netskao.appdata-rootless, com.fouadraheb.appdata
+Section: Netskao-Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: Fouad Raheb
+Maintainer: Nets
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64e.deb
+Size: 823352
+MD5: 518147946840d953969849b59741ddd3
+SHA1: c7cfecd49b9d5b766808423de8a55eca25f3fec2
+SHA256: 35d0be632c16be00995dd9357f339bdc98e92f24ea93555cf0293b63c96cc944
+SHA512: e0f96336f7b6ea2a9d1b602cf4fd43263e644a3a923edffc2c1c44a7bc1df54719def8d2413353fba6af91c70ade02825920207521c4ffb742137f9e6d770c26
+
 Package: com.fouadraheb.appdata
 Name: AppData
 Description: View & Manage Applications Data from your Home Screen

@@ -1,3 +1,21 @@
+Package: libskittycolor
+Name: libskittycolor
+Description: A simple color picker implementation.
+Maintainer: Skitty
+Author: Skitty
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/libskittycolor_1.0_iphoneos-arm64e.deb
+Size: 21856
+MD5: 7a7a83570392b7beedf606b274a37493
+SHA1: 71613f6cd1aed890bc43b875f4f3f0c9e324e99e
+SHA256: a044de142e13e4d3066317b2064c73549d1b136b2746b43e085d0c5d601dee7f
+SHA512: 1a54722d39c245ec57b63171d9edce86fc483fb3a17f240aa23d69d9365c895d559fb86151b6154dbf96665cb9d2c99ee22a131d43ed2106191280acc08751c8
+
 Package: com.spark.snowboard
 Name: SnowBoard
 Depends: mobilesubstrate, preferenceloader

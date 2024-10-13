@@ -1,3 +1,24 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.0~b12
+Installed-Size: 6220
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.regram_1.0~b12_iphoneos-arm64e.deb
+Size: 1341196
+MD5: adfc4525cb90ff0d7df0b13dfe70b127
+SHA1: 0f61f48d84c6be839e99faa3464d912dc8e44919
+SHA256: a2629886b60bb79b45b07e1bb51a2445132ed685ea7034c86ed67046ff4d6732
+SHA512: 7ba5f4336a717035c171c3bf4a198f36a32584b43a10de887dea36e1c57363ed1dcdae20a4cd6c3508d83a1b93cea77c1a2c5e4bebb922aaf5bd8826e14e2887
+
 Package: xyz.skitty.spectrum
 Name: Spectrum
 Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)

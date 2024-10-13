@@ -1,3 +1,26 @@
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CrossOverIPC ~ Rootless
+Package: cm90.crossoveripc
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 338
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveripcdopamineDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveripcdopamineDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+Tag: purpose::extension
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cm90.crossoveripc_1.2-1_iphoneos-arm64e.deb
+Size: 13552
+MD5: eab3aa1828d129cd9fd6c282f3fe89f8
+SHA1: b8df55d674e12c96be00b61095b80799d04d2b6f
+SHA256: c3f7954d299394a009212c3a362a6e494279bfb04b1e5513af79b90884022bbe
+SHA512: b4cfc16fbdffa6ab27a3899c2c8e3a26473173ef968cd2e7af0a515d7f25ef883d0b2706c309970b91d3748e7cb7570739db57d105b9b994ac93fadc0570b51f
+
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>

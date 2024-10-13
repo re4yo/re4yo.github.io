@@ -1,3 +1,28 @@
+Name: LimitCharging
+Package: com.zqbb.limitcharging
+Priority: optional
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm64e
+Description: Manually set the charging limit more freely to protect battery health.
+	- Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=limitchargingDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+Section: Tweaks
+Installed-Size: 546
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/LimitCharging.bundle/icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.zqbb.limitcharging_1.0_iphoneos-arm64e.deb
+Size: 18560
+MD5: f446abc70eec1501c028ab86d876e88d
+SHA1: a8c9304ce4c74e20e6f777b0ae76a29c10debbd2
+SHA256: f963f4f1fb49b8418afe230c6f8c198b4bde6586a0c4458244e656fbe820d585
+SHA512: c13ec90da0e762751f5fbb0c7fc7322f5650784688583ca7f216c3c95b4e8bf802409760302727162eb1d822a0b0b87a1cf8ce7e1c66da4d7371e2dbd07efb53
+
 Name: NoMoreDisabled
 Package: com.cydiageek.nomoredisabled
 Priority: optional

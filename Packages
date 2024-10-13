@@ -1,3 +1,29 @@
+Name: BlockAppUpdate
+Package: cn.zqbb.disupdateapp
+Priority: optional
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Description: Block App Store Updates!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 734
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cn.zqbb.disupdateapp_1.0-2_iphoneos-arm64e.deb
+Size: 126012
+MD5: f0c22c38d8fb4bf59d7028641263d245
+SHA1: d0358cc51df2c30a792d3dac7b36ec8d75c7df77
+SHA256: f8bb1a4f4574f1fd2e50620b167bd1482cbe5e04c7e367844d616648388388de
+SHA512: 1c77342c078df1830822d9d30aa90aeace33cdc74684d8ec375aadd4b4a8453395c81919c363fbeae1837ddb4a94f4775ab9983146e8e922d52280ca4de07f1e
+
 Author: nowesr1 <nowe9r@hotmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: PhotosPlus

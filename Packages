@@ -1,3 +1,26 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCVPN
+Package: com.kingpuffdaddi.control-center.ccvpn
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Section: Tweaks
+Installed-Size: 187
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Description: A Control Center Module to connect/disconnect VPN
+dev: kingpuffdaddi
+Tag: purpose::extension
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.kingpuffdaddi.control-center.ccvpn_1.0.6_iphoneos-arm64e.deb
+Size: 15460
+MD5: 2e2be0a15062641e84f4f7b3d9f98bac
+SHA1: ef07e3bb816b903ee47102e44ba0ec71610f3a8a
+SHA256: 2e400224b30bb1308702a0484d5d3c20f3e90f72b4fec0bb30dc0bde7952b0c3
+SHA512: bc7f49a91993291279dd5c07aeaa843b888f59509823f3caeabc14108d33feb6d7adb098f6847c38721321c8bc430a7545b33bbeb8ef8e0bfc8c765ed91e32e4
+
 Author: MrDeNsor <alianwer9988@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: IGFormat

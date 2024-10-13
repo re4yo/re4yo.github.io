@@ -24,27 +24,6 @@ SHA1: d10304e92ada78e7c828c955fec64f4546045a1d
 SHA256: 1a6e7384cbbfddf6541beb5b40e1a71bcab482cefe4d83d15139533e8bf0c27b
 SHA512: 44b4f0316de714ca6e033b1c55e6363eab93365018e193236d55d829ed9a30be6b6c674f6b5b2fa4414b8e649a2ebd931898ed1734ac775746d81a02fc60a7d8
 
-Package: com.ryannair05.cylinder
-Version: 1.1.1
-Architecture: iphoneos-arm64e
-Section: Tweaks
-Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Installed-Size: 1123
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
-Name: Cylinder Reborn
-Description: Make your icons dance
-Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
-Depiction: https://chariz.com/get/cylinder-reborn
-Tag: compatible_min::ios11.0
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm64e.deb
-Size: 234600
-MD5: 969a8c956e1454a3bd145b2dc4f44211
-SHA1: c51ed372e98b7d8cecdbaccb3507bf3c34bf809d
-SHA256: 0cbf87e4ea6ac4e2a93ba636222aa211c8a3bbb36f2280042c883d7323077c8d
-SHA512: 1aca6a2fc847b78220733a85ac6833b671f6ee71f465d9a150acb5de3f1d3d68bf7620ada89b87e3b77a1f4465b4de59ca50328dffcacf02dc41366ba60a41a4
-
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
 Architecture: iphoneos-arm64e

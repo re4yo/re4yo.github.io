@@ -1,3 +1,25 @@
+Package: com.fouadraheb.appdata
+Name: AppData
+Description: View & Manage Applications Data from your Home Screen
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: netskao.appdata-rootless, com.netskao.appdata
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.appdata_1.4.0_iphoneos-arm64e.deb
+Size: 111228
+MD5: e72c5ff2837b3e000c33fa29bb7c13fd
+SHA1: a5c3c28ce9605bc0b3e12f47eeba39eb7bccccb6
+SHA256: 0ef9ba76e042e23a122441303ea70c588d97dd4042e82f289a4fff521a3b986e
+SHA512: a161dcf7a72da58687e54133cc6979ea92598cc6779e8ace3c9d9842d20243f611be7632e522092a40dfc929975516079d8c2c6d29c6aa7cc18b9618dc594c13
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram

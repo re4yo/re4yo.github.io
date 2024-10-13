@@ -1,3 +1,21 @@
+Package: com.newwares.badgesync
+Name: BadgeSync
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Maintainer: newwares
+Author: newwares
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.newwares.badgesync_1.2.2_iphoneos-arm64e.deb
+Size: 37280
+MD5: 4e3ae4cedb7795fd183f10166a036161
+SHA1: 701c8b52eeb2c6ed317085e073dabf0e6700bbdf
+SHA256: b678fd0b6ea37a581d88dda0506c898954c30a3035ab15ff51d7547e9c2f2d13
+SHA512: 485bcb776af1d62fe1903f72f6acc180972456457596e9e7863cafa3c2cf1832527d959a96d5ce81a3561451fd6b805dbc5f7571aec1e91e12e78576b9546e1f
+
 Package: com.nahtedetihw.closeall
 Name: CloseAll
 Description: An awesome MobileSubstrate tweak!

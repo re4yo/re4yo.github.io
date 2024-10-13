@@ -1,3 +1,20 @@
+Package: com.yourepo.b4db1r3r3p0.oleddarkmode
+Architecture: iphoneos-arm64e
+Name: OLED Dark Mode
+Version: 0.5.1-11
+Description: Make dark mode actual dark.
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0)
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.yourepo.b4db1r3r3p0.oleddarkmode_0.5.1-11_iphoneos-arm64e.deb
+Size: 9096
+MD5: 188c3a27180ed74607094cd7ea1daf03
+SHA1: 5ba8f7670b2e959bbaddb1f7457f06dd9f008f12
+SHA256: 21dbbae64144e73b7ff4e5545384149801b83fc497bd4da43f535bf4b3c062e5
+SHA512: f2d19d5810103189e1a0b9719d0c7e236955765cabd1bee3618be361188cc21ec8dd75805c176e5c7d254842a97ccbc217b5bfaeceb52cd3a83e28f955c122cb
+
 Package: com.foxfort.libfoxfortutils
 Name: libfoxfortutils
 Depends: firmware (>= 11.0), com.opa334.libsandy

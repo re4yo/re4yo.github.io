@@ -1,3 +1,21 @@
+Package: com.foxfort.skinnymenu
+Name: SkinnyMenu
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils
+Description: Remove share and lookup from menu
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Installed-Size: 912
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.skinnymenu_1.0.2_iphoneos-arm64e.deb
+Size: 255992
+MD5: 61a2fe6696ebd87fc39deb512f65ef35
+SHA1: d786ff0b015996aeab0d03d0681d53198eb1ec7b
+SHA256: e7711cf97ef406fb7801677678a03860ace6080201dbef8e7f231ad52ed0a225
+SHA512: 2844ec413ee054b088dd8c421f43be8a7ee322ddd55f021e0701665d01372beb5c2eb7729494089d5bf8e92f7fd0d5cc8f5ed1c497029b396f923dca37ce6ffd
+
 Package: com.yourepo.0xkuj.storeswitcher2rootless
 Architecture: iphoneos-arm64e
 Name: StoreSwitcher 2 (rootless)

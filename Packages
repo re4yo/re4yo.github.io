@@ -1,3 +1,22 @@
+Package: com.foxfort.libfoxfortutils
+Name: libfoxfortutils
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Description: library for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.4.7
+Installed-Size: 1288
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.7_iphoneos-arm64e.deb
+Size: 272208
+MD5: b121c2a1c7dd9352322f30941700868e
+SHA1: b90f0ee50a2ec38936ea6aa50a7ad8e00f182731
+SHA256: 099f43e6b14c2f88ae285449328ae8d1991bc88994b19792af1dfa31174f5dc7
+SHA512: ef639f1b8da7f657cb42700683fa4bd8af57c9638dd4aa3a7f0e9f1267e1f36bec61cf13830c844c9bf68fdb68497d65ce38cfcd5aace5c4716c120e0917c13b
+
 Package: com.foxfort.skinnymenu
 Name: SkinnyMenu
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils

@@ -1,3 +1,26 @@
+Author: MrDeNsor <alianwer9988@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: IGFormat
+Package: com.den.igformat
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 182
+Version: 0.0.1-37
+Architecture: iphoneos-arm64e
+Description: Format Count Of Likes , Comments, Shares , Views
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mrdensor
+Tag: purpose::extension
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.den.igformat_0.0.1-37_iphoneos-arm64e.deb
+Size: 13940
+MD5: 526ddfb33019b89ca9f3d17855e6f5ee
+SHA1: 134a7daa91d1386bbb11706eb121ac1fae3211ee
+SHA256: 92cc6a6fda495713b374065b5afb076bc9d5bd39e1cbaee44315511a7bb669b7
+SHA512: 61317fd398606d54cac890bd3d32f1d5d0724b94b2b403487253b6e10825583ed4262455ff6a5fbc5a4da24b0c74995d901da528d968a60737d50e107a0c8db1
+
 Name: LimitCharging
 Package: com.zqbb.limitcharging
 Priority: optional

@@ -1,3 +1,24 @@
+Package: com.julioverne.goodwifi
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi
+Architecture: iphoneos-arm64e
+Version: 0.0~beta6
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
+Size: 40172
+MD5: 597c677cf030401a7bdfe23a8a9aff26
+SHA1: d83ebcdd0d2ff72ac12d7d4e7d6ab46de5ae857e
+SHA256: 0fe55465679554826be066cbcb8b55596119c97f7f9dfdbd47689a6ea265a3ff
+SHA512: b90eb1f971042014b49fbb69c188145838c2ea2b454ff5d8b7238df0980bf6f821b25a921d13643ed1f58cb84d823294bff78672e05dc0648889f997a6ec2ab7
+
 Package: com.fissiondev.uranium
 Name: Uranium
 Version: 1.2.7

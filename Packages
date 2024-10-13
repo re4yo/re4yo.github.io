@@ -1,3 +1,27 @@
+Name: NoMoreDisabled
+Package: com.cydiageek.nomoredisabled
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 1.0.2-1
+Architecture: iphoneos-arm64e
+Description: Prevent Permanent Passcode Locking by Mistake!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 289
+dev: lucaluca86
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.cydiageek.nomoredisabled_1.0.2-1_iphoneos-arm64e.deb
+Size: 4792
+MD5: 5a6b09f86d7ae48e2928a82cbc5ea320
+SHA1: 29fa63d11947a17c9b11cb7efc2a0cadadb0ba6f
+SHA256: c37027243c4bd4389ea237051ffd92e8203f182f662cb36983f513fbbe8d190f
+SHA512: 919c91d8154d145338a811feda30a7e9a65f86b1187f1dab02a8182b72ce52625a0bda1cf88f4eea08aee38b80412b3846f231913d216201dbaca44cd89a8a1f
+
 Name: PMP
 Package: pro.ikghd.pmp
 Priority: optional

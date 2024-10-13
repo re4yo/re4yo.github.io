@@ -1,3 +1,22 @@
+Package: com.fissiondev.uranium
+Name: Uranium
+Version: 1.2.7
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Installed-Size: 468
+Author: FissionDev
+Maintainer: FissionDev
+Description: Lots Of Options To Enhance Your iOS Experience!
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64e.deb
+Size: 37292
+MD5: ea7ee4babb0eee1b3932232fee015715
+SHA1: 471d0275fbc215b690fd77cb8ef35deb1b22ed5a
+SHA256: 065950431638bc46b5b639a7b83badb010ba250f8963bf28d8a826be840eec5c
+SHA512: abae850cfeeac0e04f999c0c75319c8179d3740ce5ad82d232fd739b340aa7b9d169081276c9d056013853f2f1f4d58413aa9de91258ef979e9cd62a8e772531
+
 Package: com.netskao.appdata
 Name: AppData
 Description: View & Manage Applications Data from your Home Screen & downgrade apps.

@@ -1,3 +1,22 @@
+Package: com.sparklechan.swifty
+Name: FridaCodeManager
+Version: 1.5.4.2
+Architecture: iphoneos-arm64e
+Description: Full fledged Xcode-like IDE for iOS
+Depends: curl, swift, zip, ldid, unzip, clang
+Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
+Conflicts: com.sparklechan.sparkkit
+Maintainer: FCCT
+Author: FCCT
+Section: Utilities
+Tag: role::hacker
+Filename: ./debs/com.sparklechan.swifty_1.5.4.2_iphoneos-arm64e.deb
+Size: 3174852
+MD5: 0145e32fce9d7cbf292b27bfd293c035
+SHA1: c1975c8082e0a61a22f7f202769f5faad09bb573
+SHA256: 6ea4160a2423f149ee4f4120814df5a6ce620b416e0bb201e779b24263a360b2
+SHA512: 9d30001d428c9458741eb44f71a7cb36f80cad256e4679c1a5585d0d953d77b72fd7f7a2f2b996c93e8d3bd833822371071b562b588f75006624cd7d65f1a3e1
+
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.12.7
 Architecture: iphoneos-arm64e

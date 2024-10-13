@@ -1,3 +1,20 @@
+Package: com.yourepo.0xkuj.storeswitcher2rootless
+Architecture: iphoneos-arm64e
+Name: StoreSwitcher 2 (rootless)
+Version: 1.0.4
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: 0xkuj <0xkujz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 11)
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.yourepo.0xkuj.storeswitcher2rootless_1.0.4_iphoneos-arm64e.deb
+Size: 14508
+MD5: 02724b457793acf613f5a4c53e060725
+SHA1: eac2a43213762e2c0293251290ccad7261d9a5a7
+SHA256: 687743e8f3fb7290db82486317c00e1b667f747eac4f2555fb6d5dd21363b59b
+SHA512: 68bed5280075538e2abe2bf697883dccf40e64861bcc33d936d4ac5b81076d9518ce242a1012127d2d616af7083f397705577cf3e0658793f76a44de48f6ce95
+
 Package: com.yourepo.cydiageek.twitterlabelback
 Architecture: iphoneos-arm64e
 Name: TwitterLabelBack

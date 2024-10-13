@@ -1,3 +1,24 @@
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.12.7
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 219
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On iOS YouTube
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.7_iphoneos-arm64e.deb
+Size: 24612
+MD5: e7aff62d083bcf2592a9e3ec7164b0d1
+SHA1: 6d6899bd705ad1ba7de95a0bf41ed1db159557d5
+SHA256: 64e62456ac9c77509fcf191760edbd8b8ce2fdd3b11d7527088701c25c720bb1
+SHA512: fa8fac5eb4b76c8a1fd4b4176a692175b5dbd5b8aeae16d9f9ecccc7cfebd121c3db79a55911038ee747fe1f232a8ecc308b38e82d5015b88a8fe8826e878191
+
 Author: ichitaso
 Maintainer: Havoc
 Name: IconOrder

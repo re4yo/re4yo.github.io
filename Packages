@@ -1,3 +1,26 @@
+Author: nowesr1 <nowe9r@hotmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: PhotosPlus
+Package: twitter.nowesr1.photosplus
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 376
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Description: Awesome tweak for stock iOS Photos App
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: nowesr1
+Icon: file:///var/jb/Library/PreferenceBundles/PhotosPlusPrefs.bundle/icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/twitter.nowesr1.photosplus_0.0.1_iphoneos-arm64e.deb
+Size: 26168
+MD5: f0880ab33ee33c9fa89455d733e658a1
+SHA1: 8a63ed80d7a66791e5c8f2b2676e25dba17dad6f
+SHA256: b7f64e014f3e8a7c7a3d68a6c9a6375c03551a3a2af45b91555c7c989eca6d55
+SHA512: 9c69254433cccd04c6093ba5eb20033df3276c1d055223e420b3b406d913cff3923a71e3f7fe51bf0cde14af9a38bad313aedd11dbbcf3c9f4e25a56df2558b0
+
 Package: com.sparklechan.swifty
 Name: FridaCodeManager
 Version: 1.5.4.2

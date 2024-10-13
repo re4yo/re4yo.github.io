@@ -1,3 +1,25 @@
+Package: com.nightwind.boldersreborn
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Author: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 5808
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
+Name: Bolders Reborn
+Description: Bigger and bolder folders, remade!
+Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
+Depiction: https://chariz.com/get/boldersreborn
+Tag: compatible_min::ios14.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nightwind.boldersreborn_1.1.2_iphoneos-arm64e.deb
+Size: 4864536
+MD5: 4b3a23f82fd7697d3b7863eb1d41efac
+SHA1: 98c8edad0dd02a20275d18d4cd2c49a3d5686212
+SHA256: 412bdc0cc3fc0ae563bb54ffe6f1735e3223c9c31eb30ecf9d2e3d5dcbc324b3
+SHA512: 2e9e936b403dc2b60bdd3aeb8713a0ea4c10528ae75190fcd2fc6e379f3798588d033bc8b5e516408c05172b373986689f0336b361f1dd73e039fb6d556c8389
+
 Package: com.newwares.badgesync
 Name: BadgeSync
 Description: Syncs icon badge values when notifications are dismissed from the notification centre.

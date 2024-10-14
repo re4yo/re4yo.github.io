@@ -1,3 +1,22 @@
+Package: com.bandarhl.bhtiktok
+Name: BHTikTok Plus
+Description: An awesome tweak for TikTok!
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Icon: https://i.imgur.com/PKIhkrt.png
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.3
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: /debs/com.bandarhl.bhtiktok_2.3_iphoneos-arm64e.deb
+Size: 474568
+MD5: 10d27a0b02c7a16538ca663feab64496
+SHA1: 2f47ca6715f214d038c7d7f6ed9c92a0a07a6292
+SHA256: a26fec05f5fbb5ef564dcc5026b5ca15a82586047a840627ad06daeed2e2b289
+SHA512: 2424d794ba8bc112fc5bca0ca709b1af69e44260c3571d3cfc347b11bf4e7202ef4c517410dd55c065949fe3e667c0eacfffc624ce876208d34b02ca807d7e26
+
 Package: com.dvntm.ytlite
 Name: YTLite
 Depends: mobilesubstrate

@@ -1,3 +1,22 @@
+Package: com.tonykraft.inosleep
+Name: iNoSleep
+Version: 1.2.4
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Installed-Size: 368
+Author: Tony Kraft <iostonykraft@gmail.com>
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Description: Allows Wifi to stay connected when the device is locked.
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64e.deb
+Size: 30588
+MD5: 5153c3fabe817d9576579de5a4b06bd6
+SHA1: fdc0f5de3360881e3e480f8fc595c0e86f347bef
+SHA256: 96b78c523d5a533a055fbf770a423efe0c5a137a2180cb88182de081a9e5a2d5
+SHA512: 1647ab9c58efc5cd88bf71944be51a8bfb49785503bd99229158d87f1590f7259027866c22fce350da4b0640a6b432ae10ef78775ab3f2c7c089f8cb997cd4ce
+
 Package: net.ajbbo.disableshareplay
 Name: disableSharePlay
 Description: An awesome MobileSubstrate tweak!

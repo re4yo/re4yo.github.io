@@ -1,3 +1,21 @@
+Package: com.bandarhl.bhtwitter
+Name: BHTwitter
+Description: Awesome tweak for Twitter
+Maintainer: Bandar Alruwaili
+Author: Bandar Alruwaili
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 4.3-5+debug
+Installed-Size: 6292
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64e.deb
+Size: 1035288
+MD5: a15bdb359d0bb0410068d74ddfd987c3
+SHA1: 10d49bf51648a9f70fd82fe568d49e27cb58ddf8
+SHA256: de9380d7836a9786187fc463fd1c2207a7f0dc070e5bedf573e666cb42d66aba
+SHA512: c2531c3d91fc359d7ece10361bea228311c8997106dfce5b490d8b4cc19da9d263758af1574989468634f10e39e446f1e15c58424098509a28788b4365be8620
+
 Package: com.foxfort.libfoxfortutils
 Name: libfoxfortutils
 Depends: firmware (>= 11.0), com.opa334.libsandy

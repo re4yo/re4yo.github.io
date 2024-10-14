@@ -1,3 +1,23 @@
+Package: com.f0u4d.stalky
+Name: Stalky
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Section: Tweaks
+Enhances: WhatsApp
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.29
+Installed-Size: 6772
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.stalky_4.1.29_iphoneos-arm64e.deb
+Size: 1575800
+MD5: 7979d8dea494bff403c4575c05592906
+SHA1: 67b591ea64ffe0d2fb534e39acdfb25d291ecfa8
+SHA256: e396ec5f485086a9d4e378a08e63c1ebf9c04a107a381636de6279208f1ea379
+SHA512: 637a90c6f6132d5b6992fa736a176a3dde6c23573e91be43191f2867c60b32835bf6e4307acfb7cf784590b2fa276aca8a3f544312f0127cecdca50e278623f7
+
 Package: com.f0u4d.onlinenotify
 Name: OnlineNotify
 Description: Track your friends on WhatsApp Messenger!

@@ -1,3 +1,63 @@
+Package: com.foxfort.libfoxfortutils
+Name: libfoxfortutils
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
+Description: library for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.4.7
+Installed-Size: 1288
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.7_iphoneos-arm64e.deb
+Size: 442900
+MD5: 1d05ab88af88bcd9272f18fb801d8d43
+SHA1: 55c94fa0071d778fa659312e1b9f72fc4a7a53af
+SHA256: 36c758dec10c10375524a09eb95f4f67b477e59e866c21c8877b3b4d431f7101
+SHA512: 45335cfef50ab47904e35ff27c6b588ae035a566fb606d132035257bee20fcf35fd3c7209d2dcb43fab9f078bb92c46267cfac68b7fb26619b5843a67c6d8302
+
+Package: com.foxfort.foxforttools
+Name: FoxFort Tools
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.7)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
+Description: Helper tools for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.4.13
+Installed-Size: 2132
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.foxforttools_1.4.13_iphoneos-arm64e.deb
+Size: 1593640
+MD5: fbab5964f60e45f8b45b3e2953c0995d
+SHA1: 638c1b1f238ebe8250b9d347e330b4cf1eb38fbc
+SHA256: 2f8a3e773dd9e8d87d145aa13bcbe451d042591e0d960a69959da471ec7e1aab
+SHA512: 0038a5caec4ed7d7f579c046ba4e65717be807ee0380624e1f89fd1c14b3662ad2504e79bc15e817fdcf1d4860dfab9b8b99b012ccfc439dad9f77cad73d2175
+
+Package: com.foxfort.translomatic
+Name: Translomatic
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.12), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, r-o-o-t-l-e-s-s-
+Description: Quickly translate any text
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Architecture: iphoneos-arm64e
+Version: 2.18.26
+Installed-Size: 5112
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.translomatic_2.18.26_iphoneos-arm64e.deb
+Size: 3842094
+MD5: 9a63db6ff25fd939b8541bf7b2d2e718
+SHA1: 4b6cb1f75135b1934592779432036122de696293
+SHA256: 7ec573e15554308735ef3092a177006b7d49cd651cce926f228824219859280a
+SHA512: 6a481df3d49606da522fa18ef73b278da13dcabbc58a013f996106f55f65c6d520ee8ec55bb8ae69caba8df8d3da472fd5965fe8443f474841a5b9734047a803
+
 Package: com.bandarhl.bhinsta
 Name: BHInsta
 Description: An awesome tweak for Instagram!

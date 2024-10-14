@@ -1,3 +1,22 @@
+Package: com.wrp1002.nosettingsbadge
+Name: NoSettingsBadge
+Description: Remove settings notification badge!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/
+com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64e.deb
+Size: 4360
+MD5: b17c15a518acc96d3ec7fe58bf66256e
+SHA1: 6846984c0a8ea4d6a42394a29914ac55ce646ce6
+SHA256: 594d120aa3da0af6dd6b78e20aa22492715b0ba4c0d630c85628a93708bd1cf7
+SHA512: 34c619a076184e687579c43ebab6939fa67a11063038913672aa4bcf17901879ba443660c0d70e7677093cd1d64fbe1a9f9c4970611c72eeb890f5f148ca4582
+
 Package: com.34306.replaced
 Name: replaced
 Author: 34306

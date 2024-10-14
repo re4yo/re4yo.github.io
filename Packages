@@ -1,3 +1,21 @@
+Package: net.ajbbo.disableshareplay
+Name: disableSharePlay
+Description: An awesome MobileSubstrate tweak!
+Maintainer: aJBboCydia
+Author: aJBboCydia
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/net.ajbbo.disableshareplay_0.0.2_iphoneos-arm64e.deb
+Size: 2920
+MD5: aa224fdfaef93f8bd6bef009d3edd434
+SHA1: f9655d36f0850abf479cc85699fb190fb5eb6d12
+SHA256: 8664746dc5a2030178d84da22ad8939f05ebf743fdd0f70a483cabb60d1d7a71
+SHA512: ba351ff5126035ce6c8fd13cccb1ee0c2ca08c311df89a53b4569ab742e97c411cb8f3b40ed89682db2040cd5ef74b2d0c4e235e3a23087dc33fe6be115362de
+
 Package: com.wrp1002.nosettingsbadge
 Name: NoSettingsBadge
 Description: Remove settings notification badge!

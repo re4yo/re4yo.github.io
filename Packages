@@ -1,3 +1,20 @@
+Package: com.34306.replaced
+Name: replaced
+Author: 34306
+Description: Remove the notification that the P
+Depends: mobilesubstrate, firmware (>= 15.0)
+Maintainer: Little 34306
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 152
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Size: 3152
+MD5: 25623d181915625b851446658cd510eb
+SHA1: 2b2d7a8f8b75c7fb11c24a26a544140a4962df41
+SHA256: 2d8a29c5cf5f6ff24f2e0ebce932eff5e270ecb13342be31d8205b81f437e913
+SHA512: 7f3967a5759a9401aaa2af8617c6cead8e910ae8c1cc9d6d6d8e08cdc86df73dc8b7a9ec996496006678cbf64f351e0f4e6c82ae7744054505f1a10356147ff2
+
 Author: @CrazyMind90 <CvCrazyMind@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: AppEditor

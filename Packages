@@ -1,3 +1,22 @@
+Package: com.level3tjg.twitchadblock
+Name: TwitchAdBlock
+Description: Block Twitch video ads
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 0.1.4
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.level3tjg.twitchadblock_0.1.4_iphoneos-arm64e.deb
+Size: 18812
+MD5: 7def14c1291e8cc800dcc6ac47791267
+SHA1: 9452236c6fed8a648401d18203ee0df4e95d80f7
+SHA256: e25dfc0bc508878dd7127bbc8ec620493db0fc55f64ea2087ab17064b5221489
+SHA512: 12808f8258f57dfcb7300daeacd0619a3ea001504b6e85b1a4b549a693c57c59821a827ada7ce12efec1789a37ebe5b6a5f6bb7f4fafd7f9db5c7857f1ab42c6
+
 Package: jp.dcsyhi.adkeyboard
 Name: ADKeyboard
 Description: Make keyboard color adaptive to app color.

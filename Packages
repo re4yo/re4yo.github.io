@@ -1,3 +1,28 @@
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: AppEditor
+Package: com.crazymind90.appeditor
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
+Section: Tweaks
+Installed-Size: 58963
+Version: 3.8.10.6
+Architecture: iphoneos-arm64e
+Description: Gain Full Access and Control Over Your Applications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Sileodepiction: https://crazy90.com/repo/1.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+Tag: purpose::extension
+Icon: file:///var/jb/Applications/AppEditorApp.app/AppIcon60x60@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.crazymind90.appeditor_3.8.10.6_iphoneos-arm64e.deb
+Size: 20012876
+MD5: c5b3bff78e8affa1dddd272330500a4e
+SHA1: 8a3c6dbfd199c20209324c6b8ea8015ddd32f3d9
+SHA256: e0c2120304271dd33d6c3cd84ba58d30b1e6f5c64b8b23371617482542496b47
+SHA512: e71dace159fca9b2a6aa79d3402ac44691f0ab6fe9b4a323785e277665944a6b476bfbde25564d463113189342020cfae9a968346ba7751f32545ec4d3d5c10d
+
 Package: com.bandarhl.bhtwitter
 Name: BHTwitter
 Description: Awesome tweak for Twitter

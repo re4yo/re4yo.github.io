@@ -1,3 +1,132 @@
+Package: com.dvntm.safariii
+Name: Safariii
+Description: An awesome MobileSubstrate tweak!
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 168
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64e.deb
+Size: 2800
+MD5: efd79bde9da976d9d4a4b29b3ef10c15
+SHA1: 4ddadaa4b69833af20fa4851eb911b3edcf54b09
+SHA256: 45bde2478ea8571a423cad851647c6f9d76f2251f3a665b104ffc45d67d91be8
+SHA512: db9e6ad3365ebf3abcfa052bc3d88d55d30fae09df24b3d61fdcb8594085900672fc0269fe7782b8b4c007836000e99373154e99b05a9d7cc34d7a3b0e3fe88e
+
+Package: com.jaxroth.supporttheunsupportedrevived
+Name: SupportTheUnsupported Revived
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: Jax Roth
+Maintainer: Jax Roth
+Description: Allows iPhones to use “unsupported” charging accessories
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
+Size: 4840
+MD5: 3310ef7893e267300fe6d39b65214934
+SHA1: 25818704dba366db49a3d0559db252413b6776ec
+SHA256: c0252f9bec7ce4742cec0cb3041d053c90352cebe0e505ca5eb3f4d125a36cbe
+SHA512: 667770546bb3bbd355d4d76b7699dfaf56bc7048cdd6e0a83f8e59d3f8ab14a39a8db765936dc012d567b296675ac464bfaf4d4d1fa04767b9c33567baa23bce
+
+Name: libnotifications
+Package: com.cokepokes.libnotifications
+Priority: optional
+Depends: firmware (>= 8.0), com.opa334.libsandy, cm90.crossoveripc
+Description: App notification library.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+Section: Development
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+dev: cokepokes
+Architecture: iphoneos-arm64e
+Version: 0.3-6-1+debug
+Installed-Size: 416
+Filename: ./debs/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64e.deb
+Size: 16700
+MD5: 4a5cf884d8997daa47553b3ed8475c2b
+SHA1: 72ebf69361a9cc528884fe72ee65a5b698a45ec9
+SHA256: 16b196ff2edaef6140982661af68928b9c76a01c60816c651491391e58d784de
+SHA512: 7745ddb26369cdcbd9047d2a73d154677235439216601c6d520053160793ff054d499cad0023ebab8a6d8594412ea3e9915be5d9a8c920c308f3c8c9fd976771
+
+Package: com.muirey03.cr4shed
+Name: Cr4shed
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc
+Description: A modern crash reporter for iOS
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 4.3.1-1+debug
+Installed-Size: 2356
+Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Size: 211468
+MD5: 0b56c44a59d088214ea586085298deb8
+SHA1: eab69cc49769b908147516498c06e3ab1160397c
+SHA256: 66de45c83893f92e3163dd5b2f0d65fa218d4f820e5191ef31548dd8c99d3818
+SHA512: d588da0e380ef99f8504eb768bd0ecc19b3128f609deae86be203ab40167c94bbde4805f7ca21d71588f7d173c0ff078a8f49b21333fbd4b1491d2c60a21b728
+
+Package: com.nightwind.lockbuttonx
+Name: LockButtonX
+Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 164
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64e.deb
+Size: 17804
+MD5: b277b0d66814d3a6016048b94da854f9
+SHA1: f01fe546b1222a10c4a04a6b112e31477bda31db
+SHA256: 15f70910ed6d8dbc23c207a0b0b54a766c0c6fdb165a34ef51e3e5b120e28558
+SHA512: c29584e2b7a450cdd579a1466f863883c1548e4a350dd0f5454c77194a3910bcafe5f6a2690bb43184333b1a9011b0dfe1b36db1f9a2aca92ace4e51af29cbc7
+
+Package: com.nightwind.sileorespringfix
+Name: SileoRespringFix
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64e.deb
+Size: 4812
+MD5: 05bc7c8076ed9cbd292b730b7c0a68e2
+SHA1: 3ec0806043a80084e31ad52d805acb09d641ad99
+SHA256: cc328baba8310f254fa6dfb076a79040d52b922df6298c0719a05c2fd404afa9
+SHA512: 5ff193b0be5ddea400534f3df8ee735065ecde5c1c950b721d8c67a715c67083c65e78df6f43e755bc1e2a3132be63f0bb7ffa76eae4b896478549b021bf9539
+
+Package: daniel.trustevaluator
+Name: TrustEvaluator
+Version: 0.0.1
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: daniel
+Maintainer: daniel
+Description: Allow installing unsigned profiles with the ability to write global defaults.
+Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64e.deb
+Size: 2932
+MD5: 68a1a5c5dd84bdc632f5b024c8ebec3a
+SHA1: c405e56821cefb6bdfa9a47d73ee3ace692f0c20
+SHA256: f07f2caad3797a0c0304d59ab9cf21c91da010a9e670b162280d23582da7aea2
+SHA512: 4e12b59e17f6a0ddc961a8756285aacf1eed1fca7bb13f5ed53ba97eb4166e04c6f11f66ea2f86b71218eded42f178c870955ce8ad6b75ca74c362ac49b957db
+
 Package: net.cadoth.nosbreload
 Name: NoSBReload
 Version: 0.1.1-1

@@ -1,3 +1,24 @@
+Package: com.creaturecoding.libcspreferences
+Name: libCSPreferences
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Description: A Preference Library that doesn't suck!
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+Tag: compatible_min::iOS9
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Installed-Size: 2332
+Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Size: 335124
+MD5: 70d2e29573a7dd74e2f8f0d43482a7ca
+SHA1: 9faf3ae23942c9100a5b8de230b9f3c842c116cc
+SHA256: b03610572da2544c5587fa00b479838103867b5ff1a1176c15ca6989b6154573
+SHA512: 6397bf92dac2d358483d14fb40983c40c5fc95eae01715c5dc9b9613c7d737b7c92a29b1b5fb151dd89c42d031e20aff3653c992bcbb07f58f82d798eeffb5d5
+
 Package: com.ps.letmeblock
 Name: LetMeBlock
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy

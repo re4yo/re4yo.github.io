@@ -1,3 +1,28 @@
+Package: com.creaturecoding.tweaksettings
+Name: TweakSettings
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Priority: optional
+Description: Dedicated settings app for tweaks
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Applications
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+Tag: purpose::application, compatible_min::ios10
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Size: 383672
+MD5: 152cc61ebeaa1ce2db0566af35dc1f09
+SHA1: 52fd271d3a121ea5832980cc8c358cb22a0b126c
+SHA256: d0193e8c646dd99ab07be024e362488a47be04155977bfe57dd4775b1af56b35
+SHA512: 6af5c40146061cf98003a9d25a685f2067c32a4df89f92c1753ff79d170c58a1878f38aa098b19245180124cc6b6a729a6b76f9c1bba68cfdee137a33da47ff2
+
 Package: com.level3tjg.betterccbrightness
 Name: BetterCCBrightness
 Description: Add more controls to the expanded brightness CC module

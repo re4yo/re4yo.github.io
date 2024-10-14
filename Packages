@@ -1,3 +1,23 @@
+Package: com.ps.batteryhealthenabler
+Name: Battery Health Enabler
+Description: Enable Battery Health on unsupported devices.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64e.deb
+Size: 5452
+MD5: dd1560f8f0d666c40136ccc6241acf22
+SHA1: 6689c0e8db9bfce04b8d115032b49abc6e618b6f
+SHA256: f8ee60fa6ca43e2bfffc61f9d853b9350ce59250f0f031c0e5f51dbb993eaabe
+SHA512: 7dafa6dfa1588be0ac8a78f716b34a2e332a1e83ca459b84ff2da77373940cc6c5864a39c253da97579f4e8798472327fa34f233bd8678a2fab3b0c00d4d97a8
+
 Package: com.f0u4d.stalky
 Name: Stalky
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp

@@ -1,21 +1,3 @@
-Package: org.coolstar.sileo
-Name: Sileo
-Version: 2.5-15
-Author: Amy While <me@anamy.gay>
-Maintainer: Amy While <me@anamy.gay>
-Description: A modern APT package manager frontend
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Section: Packaging
-Icon: https://getsileo.app/img/icon.png
-SileoDepiction: https://featuredpage.getsileo.app/depiction.json
-Filename: ./debs/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
-Size: 3929228
-MD5: 7605247dd81fb7d77afbe449ec62173a
-SHA1: cbe42f1577f90231bf454b9ffb06474eda4276fe
-SHA256: d7a0923125a1e1b7b49da87ea252a830cc40092dfbfd27404eff896c287a528e
-SHA512: ed9634c4bec7c88c806d7dc3dbf9d66dd55599b5e473c3b7b0ec4df954e8a2ef5b0786147ba91f0f0694caf28e8a59b8da1ede1fb9b2adc4ba7313bc6720249d
-
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
 Description: An awesome tweak for TikTok!

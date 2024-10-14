@@ -1,3 +1,25 @@
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 17.0)
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Architecture: iphoneos-arm64e
+Version: 112.0
+Installed-Size: 676
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64e.deb
+Size: 32236
+MD5: 8640ce716cf3148a0387f55d17c8eb53
+SHA1: 4e094fc37d5214b44d5a77346f21d9132e619d2e
+SHA256: 8b0f9192aa1288ce58ffbcba593c837db19655436b291f934fa8f710b641b2fa
+SHA512: 86c4bf9a0c637c8a301e79b690b6f494752ed49af438cffaaf7432920db53fac44b0389cc32a9f84da5f8e943a4f98436e914c9578b6624a393487314fe27b63
+
 Package: com.creaturecoding.tweaksettings
 Name: TweakSettings
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred

@@ -1,3 +1,20 @@
+Package: com.nathan.internalstoragesettings
+Name: InternalStorageSettings
+Description: Tweak to enable the hidden storage settings
+Maintainer: Nathan Senter
+Author: Nathan Senter
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64e.deb
+Size: 4144
+MD5: 42edf71fc048a6bda5d48cd40e90a3be
+SHA1: f67fa46f7c7f50b821db1d41563b773b401ccfbd
+SHA256: b6b4967205815ac0da295938366f1b22b71bb19570bdfeb9db916fa393e19f3b
+SHA512: 55999b00afca7b5926a54f6d4af19310c75b5290ba193777ca8d4da7b6f2d6ae7b21f1675ba9ba44163018589249627ec1b26cf36f042d45d878c829b1be75b3
+
 Package: me.nixuge.networkmanager
 Name: NetworkManagerReborn
 Depends: mobilesubstrate, com.opa334.ccsupport

@@ -1,3 +1,21 @@
+Package: com.raulsaeed.bhtiktok++
+Name: BHTikTok++
+Description: An awesome tweak for TikTok!
+Maintainer: raul saeed
+Author: raul saeed
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.4.5-161+debug
+Installed-Size: 996
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.raulsaeed.bhtiktok++_1.4.5-161+debug_iphoneos-arm64e.deb
+Size: 133784
+MD5: 1cd8079a1d817dceee4bc1599483ccd4
+SHA1: 4e1907f9bc89131077b85a4b01f40fc558ad0245
+SHA256: d19eba88d4ea5aed1db7da8a862741a40fdb8533aabd2d8ca4a54145348a5376
+SHA512: 1bed02bc700bd9930b0b9a60459ca33accbc10e9fc35bf69e4f429197ea8748c0320e977095f3821a2299bda1390523fa23d770c581720b68866ffddf084548e
+
 Package: com.nathan.internalstoragesettings
 Name: InternalStorageSettings
 Description: Tweak to enable the hidden storage settings

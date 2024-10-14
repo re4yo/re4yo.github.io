@@ -1,3 +1,22 @@
+Package: com.dvntm.ytlite
+Name: YTLite
+Depends: mobilesubstrate
+Description: Lightweight YouTube Enhancer
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+Architecture: iphoneos-arm64e
+Version: 5.0.2
+Installed-Size: 16124
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6098044
+MD5: ec82d448218ba1f7af8b5f225c69f351
+SHA1: 2d678383fb6a122baef9001221cdfb41cde6a9ca
+SHA256: e38f26c82846770604133700c8c37b716ea893cfb4e79ab81cde55b220452a1a
+SHA512: 2ddd445e4f27d7f447929e90ee2e69c8a7af8bd116c6eedeb2d4d7290574d1a55e08df477c00f4fd8dafbd3ca5adafd6fbcec91bcda9e758d8dac5cd1dc4e75b
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3

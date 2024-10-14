@@ -1,3 +1,23 @@
+Package: com.ps.letmeblock
+Name: LetMeBlock
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Description: Make mDNSResponder care more about /etc/hosts
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: /debs/com.ps.letmeblock_1.2.1_iphoneos-arm64e.deb
+Size: 5580
+MD5: 3cb1b894ba04ca78e2e7128f733260df
+SHA1: ea9a0e63ca4caa2c3b1bf8cc2e18fc5a99ab4d53
+SHA256: f6f92416d60921161993a0ae7c95a3672969bbb58edf7ebe721dd6eb4409c6f5
+SHA512: 009838760b9ddd13104b3fa10ec9d83f18d39e1a30cb8125c47835069d4a462017bd2e4474a10748986f1cdf5cd0401205663a22f0667c2aeeb985e2901efc23
+
 Package: com.ps.replaykitmax
 Name: ReplayKit Max
 Architecture: iphoneos-arm64e

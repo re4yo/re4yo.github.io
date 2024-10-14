@@ -1,3 +1,21 @@
+Package: xyz.xninja.systeminfo
+Name: System Info
+Depends: mobilesubstrate, oldabi
+Version: 2.7.2-2
+Architecture: iphoneos-arm64e
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Maintainer: ARX8x
+Author: ARX8x
+Section: Tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64e.deb
+Size: 268276
+MD5: 83b313cb75e21ac6c2f9742eab035bf8
+SHA1: 13e713c724b5fabed2b6869dfb979f5e8cedde3e
+SHA256: f11574cd83325efa65b60e67d49c3ec19fa474a7e0865b309d47c8d0b3069b9d
+SHA512: 88cf3e83ded15d899615bcbd993ebb459bea87256345739a486ef82e1e8a89da18452fa4e9f989ab5d31b0f35c9dd01c30809b9df582c0baf95317cc03cf1a75
+
 Package: com.kdt.trollpad
 Name: TrollPad
 Description: Troll SpringBoard into thinking it's running on iPadOS.

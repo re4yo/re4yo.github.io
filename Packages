@@ -1,3 +1,22 @@
+Package: com.level3tjg.betterccbrightness
+Name: BetterCCBrightness
+Description: Add more controls to the expanded brightness CC module
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64e.deb
+Size: 42516
+MD5: 243a909a1f796be8a13fcf8d08c250e8
+SHA1: ad4f84107121ced37bd1e26db307af00bf26f2cd
+SHA256: 6f11e545b7ad21ba699c7e9f49ace20a03ef3421cb9c2696e5bc7dbdc3e649c6
+SHA512: 20cc7604a98b343a878ae20a84f3d08c3c81606a03f9876224b03d8477b9e35dab5b02a2c52782fbd560fb04dad3739a3fd394497e59c4e0244f658f1eeccc93
+
 Package: com.level3tjg.twitchadblock
 Name: TwitchAdBlock
 Description: Block Twitch video ads

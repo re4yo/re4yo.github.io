@@ -1,3 +1,21 @@
+Package: com.socuul.scinsta
+Name: SCInsta
+Description: A feature-rich tweak for Instagram on iOS!
+Maintainer: SoCuul
+Author: SoCuul
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 0.6.0-1+debug
+Installed-Size: 3136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm64e.deb
+Size: 80436
+MD5: d60f17868c5e7b05ceaaa52c63b4e48e
+SHA1: a9a2d76620c1da3cc789cd8c7c15f0c5be25a028
+SHA256: da2020026f614c08c12a4d6903238c23a35c1ca96b61396946955ea0aa5f87ef
+SHA512: d9685b1428a386ee9cb6560bd4013977f841c493667a10bdf597acac0c2bef62efa14f49b6ac497fbcbe6cb2032a1b06dc291abf52b9eb14d8f997c0e7de9808
+
 Package: com.bandarhl.bhtiktok
 Name: BHTikTok Plus
 Description: An awesome tweak for TikTok!

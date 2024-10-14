@@ -10,11 +10,11 @@ Section: Packaging
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 Filename: ./debs/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
-Size: 3928492
-MD5: c30291df929538fc035c33371d6c93bb
-SHA1: 416ce1320c321aa8f041cf2d019138ad31b0644d
-SHA256: c009c068b945a74a22a2fd14767fadf7a34c32ebfa0c302053423c6588acf068
-SHA512: 3cf11ad453dc2d234428a03244fba18b6a4885eae3b95f441bcd1a1c6b67f5593680aceaa42da0d43325086fd305904c7664fb469d41975c5b59a704bfb4145f
+Size: 3929228
+MD5: 7605247dd81fb7d77afbe449ec62173a
+SHA1: cbe42f1577f90231bf454b9ffb06474eda4276fe
+SHA256: d7a0923125a1e1b7b49da87ea252a830cc40092dfbfd27404eff896c287a528e
+SHA512: ed9634c4bec7c88c806d7dc3dbf9d66dd55599b5e473c3b7b0ec4df954e8a2ef5b0786147ba91f0f0694caf28e8a59b8da1ede1fb9b2adc4ba7313bc6720249d
 
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++

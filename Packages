@@ -630,11 +630,11 @@ Version: 1.3
 Installed-Size: 536
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64e.deb
-Size: 22688
-MD5: 1ee19d5467b05c7240c83e2a8444a09c
-SHA1: d5e770ae47bfd0edd29bfd8169c5cec042072283
-SHA256: 81d341699585ad971ea1117c8f0cdd2516604add5a4f51d5a6efaab97a15a7f7
-SHA512: dabf228c0402582fea7819f4419c69da9f34b50a527f735f3c94be77b4418cedc567e2b71235b5e57ca57780df8e76fcb3c9f2d4757bc222c0fc643dfea21fd3
+Size: 22668
+MD5: 7c359d388841a96db6d7670feb67e5be
+SHA1: d142b06b67940408de2f21b598ce08c8336aebcf
+SHA256: 92f41c9f93cbf3777afa1f8ce8142f2ad8092b39f180849ceaf21fc183bd3003
+SHA512: b303afae78a44083ab9549717e827f5c2cd0f84901c2e2f712d113553fd20fcdd83ed06f3f1fdbec6041840e108b692325c105ec00916a03014767bcc16b4ba0
 
 Package: com.ps.batteryhealthenabler
 Name: Battery Health Enabler

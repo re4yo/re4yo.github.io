@@ -526,7 +526,7 @@ Package: com.netskao.appdata
 Name: AppData
 Description: View & Manage Applications Data from your Home Screen & downgrade apps.
 Conflicts: netskao.appdata-rootless, com.fouadraheb.appdata
-Section: Netskao-Tweaks
+Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Fouad Raheb
 Maintainer: Nets

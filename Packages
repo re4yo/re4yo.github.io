@@ -1,3 +1,24 @@
+Package: com.fouadraheb.contactsync
+Name: ContactSync
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.32)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.1.9
+Installed-Size: 612
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.9_iphoneos-arm64e.deb
+Size: 110332
+MD5: c2b12f68f371434b58d5ee32b5e3a892
+SHA1: d845229fb98fb2680712ecdf1bdb161a58b337db
+SHA256: e9528f3760583dfbb0c9737a9ba17de710778e547dbc23073c8f8ac16815e3e3
+SHA512: 19130ee000836464afcf900288aedef0b352f481c1875250effa18c414e17640cfd8ae8cc30a0d2e0f8ba69ff033055e6e66e9f7a05b9ac47bbd72159ae9d2dc
+
 Package: com.creaturecoding.shuffle
 Name: Shuffle
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate

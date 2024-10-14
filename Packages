@@ -1,3 +1,23 @@
+Package: com.ps.latesttranslate
+Name: LatestTranslate
+Description: Make Apple's Translate app support all languages to date.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
+Depiction: https://poomsmart.github.io/repo/depictions/latesttranslate.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/latesttranslate.json
+Architecture: iphoneos-arm64e
+Version: 6.0.1
+Installed-Size: 46592
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.latesttranslate_6.0.1_iphoneos-arm64e.deb
+Size: 208736
+MD5: ec382e4e0508eb947de3afcb6264226b
+SHA1: 7987d1b70db8c0251c118461a656365963be9237
+SHA256: c5521c76df757ac5f976a6f70e6376916672717b35e800dc556e4d7e72651e30
+SHA512: 04337504c39c97214c736b9f3685df7391ca98c8df05274298ee42ef66ee5b67cbb1eb5bb1c25ef8f3b39daee45e0c7eb685a06d64a1318e243f3612bf9b4d22
+
 Package: com.socuul.scinsta
 Name: SCInsta
 Description: A feature-rich tweak for Instagram on iOS!

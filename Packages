@@ -1,3 +1,23 @@
+Package: com.ps.replaykitmax
+Name: ReplayKit Max
+Architecture: iphoneos-arm64e
+Description: Record screen without resolution cap.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Depiction: https://poomsmart.github.io/repo/depictions/replaykitmax.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.json
+Version: 1.0.1
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.replaykitmax_1.0.1_iphoneos-arm64e.deb
+Size: 3348
+MD5: e80d325d70fee4de8fb843db857cdf3e
+SHA1: 1c8803024ab9a4767507bf7031dda2decaa805e6
+SHA256: 3e51a17cd25f1e8308671d3c2a7e63f86f35ccfefcc852100f04e1f3839e3ab4
+SHA512: 721de0c904e8bfd742cfd62a8f926cf80f22930334020a8bb0bac7a42d13bcfdae96139e84d02083a8a86c538069c5df816067de8ffb9feeb661c1924cb6817e
+
 Package: com.ps.latesttranslate
 Name: LatestTranslate
 Description: Make Apple's Translate app support all languages to date.

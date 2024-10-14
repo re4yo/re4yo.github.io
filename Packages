@@ -1,3 +1,58 @@
+Package: com.bandarhl.bhinsta
+Name: BHInsta
+Description: An awesome tweak for Instagram!
+Version: 1.0.3
+Installed-Size: 648
+Icon: https://i.imgur.com/lg6zKtD.jpeg
+Maintainer: Bandar Alruwaili
+Author: Bandar Alruwaili
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64e.deb
+Size: 160724
+MD5: a4b89731eb3b55a94686984590c15c9a
+SHA1: 4f07acffa5663a3e04b86b723b42ba0109c39fd9
+SHA256: 1234165f2a4702522c5bb4cd18ebc5e29ef64b628d4d7266296f0a56234556f1
+SHA512: 5b721f95611392bb1d57e9557863c7901724cb90caddee4b01d10c245770757192df6d57479e71313fbb749c3a6b3df0f440b3617b3b49b0fd1ba39b0b8a6524
+
+Package: com.dvntm.silentnotifs
+Name: SilentNotifs
+Description: Keep notifications silent while media is playing
+Version: 0.0.2
+Installed-Size: 152
+Maintainer: dvntm
+Author: dvntm
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3656
+MD5: 5d587df9382de3f621d0b19e507ced5f
+SHA1: 3a504b4f5b97f01a6c74bf1994e4b374e927b3c8
+SHA256: 44ca6f6c93bcd080b2cee07fc38de92c3559f9b7215250fb81c50d4e9e397990
+SHA512: f47061df24cb5893fe79725debdae99f9a048a6be5e9d320f54ed0f6da4cea234684ac5a42ac66feb35f81b5809eff1a01929781cfb16159f7f947d011f4389e
+
+Package: com.imokhles.disablertl
+Name: DisableRTL
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Description: Disable right-to-left languages across the system!
+Maintainer: @iMokhles
+Author: @iMokhles
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64e.deb
+Size: 4468
+MD5: 9c1abc6ef7f3b68e47ce53ac555540bf
+SHA1: e9861d3f8cb40b4286b44717911a6ea7b9de3434
+SHA256: fabb92e2d94ff9ca71a4803c47977b52b1e5de7a370be61175a1932c8055f18c
+SHA512: a990843ceb8fe63dfce087ed1094877507f5f4287ca5d8a89f471d10a419bab32aee804daca0cfa91e764dbf7620ab6c319966af5fa1a3bb00705959630b5b3b
+
 Package: com.dvntm.safariii
 Name: Safariii
 Description: An awesome MobileSubstrate tweak!

@@ -1,3 +1,27 @@
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Package: com.ichitaso.powerselector11
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Installed-Size: 2212
+Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64e.deb
+Size: 201688
+MD5: cc005c4990a6332cd0e3e287d05ee4a0
+SHA1: e95f435e1b2e0cc7387740fa67247c672cae82c3
+SHA256: d1d2e3c0d04d8825c8442f4b0e4ec5fd26b770a8ec0686392cd058f0253d8c85
+SHA512: 51ae1ea6c28d2fbd22815c82a993075f309d816d7d7262e9a01fa6624ea9ed078c63251fa55aa2239652de94bd81b20b44fcd36f213072f24b3cce9cc0be36bf
+
 Package: com.shepgoba.settingswidgets
 Name: SettingsWidgets
 Depends: mobilesubstrate, preferenceloader

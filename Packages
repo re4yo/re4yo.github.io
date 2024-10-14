@@ -1,3 +1,23 @@
+Package: com.f0u4d.onlinenotify
+Name: OnlineNotify
+Description: Track your friends on WhatsApp Messenger!
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+Architecture: iphoneos-arm64e
+Version: 3.4.6
+Installed-Size: 692
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.6_iphoneos-arm64e.deb
+Size: 178428
+MD5: ee6c7f45f0b031ce6d138b518e0d8f61
+SHA1: c8baca4d5ce5b01b202f840f4e8256470c108eb1
+SHA256: d4160903117261b77768a6a32866d45e1679e5a3dcb10b5614018a5323f30e63
+SHA512: cd8146d5e0108847bd71942f69bff309b6e6b09afa3fa3956ea98f07719c2712698af88451ff810128f9ff40ce74f78da7fea96b99beeb1d94cbc2e3f1cfceb5
+
 Package: com.fouadraheb.contactsync
 Name: ContactSync
 Description: Sync WhatsApp Profile Pictures to your Contacts

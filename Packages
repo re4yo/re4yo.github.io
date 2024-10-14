@@ -9,8 +9,7 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/
-com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64e.deb
+Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64e.deb
 Size: 4360
 MD5: b17c15a518acc96d3ec7fe58bf66256e
 SHA1: 6846984c0a8ea4d6a42394a29914ac55ce646ce6

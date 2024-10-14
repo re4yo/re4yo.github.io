@@ -1,3 +1,21 @@
+Package: com.shepgoba.settingswidgets
+Name: SettingsWidgets
+Depends: mobilesubstrate, preferenceloader
+Description: Bring good looking widgets to the front page of settings!
+Maintainer: shepgoba
+Author: shepgoba
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64e.deb
+Size: 72152
+MD5: 45322521e924375d865128090ac8996a
+SHA1: 1fd0afbb1724bad8c03270ee15ce439165d927a3
+SHA256: 70ebbc574edc4e8da51f5c9e772d98512dfca8deb47c0bff492c1a499cb1af21
+SHA512: a628dc795a4860c7e7f91d39466b1fefcac5e15183907410a64fa6a67a7851c546b0562914fc20acfd7ee7c3cd02396c2c852d5b5a398cece7d44b29af653567
+
 Package: xyz.xninja.systeminfo
 Name: System Info
 Depends: mobilesubstrate, oldabi

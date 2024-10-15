@@ -1,3 +1,24 @@
+Package: xyz.skitty.ersatz
+Name: Ersatz
+Depends: mobilesubstrate, preferenceloader
+Description: Replace any text, system-wide!
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64e.deb
+Size: 47952
+MD5: d661b4b49716c4d951af3fb79b64335c
+SHA1: b20ad5829f7a3c412a9f896372313a1636c8b6ce
+SHA256: b8065294b91aac2e6dc8282a07e25503a3854e5300f24017a741015b0eb0ad9e
+SHA512: 1d45bf80ee465aab62228fa556a13f62afba54ee1769139b826127662ac35c220e47e1e6b832147dd4aa217462aa9e088eef9f7e0021078643783ed14c02187f
+
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
 Description: An awesome tweak for TikTok!

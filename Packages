@@ -148,31 +148,6 @@ SHA1: 2b2d7a8f8b75c7fb11c24a26a544140a4962df41
 SHA256: 2d8a29c5cf5f6ff24f2e0ebce932eff5e270ecb13342be31d8205b81f437e913
 SHA512: 7f3967a5759a9401aaa2af8617c6cead8e910ae8c1cc9d6d6d8e08cdc86df73dc8b7a9ec996496006678cbf64f351e0f4e6c82ae7744054505f1a10356147ff2
 
-Author: @CrazyMind90 <CvCrazyMind@gmail.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: AppEditor
-Package: com.crazymind90.appeditor
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
-Section: Tweaks
-Installed-Size: 58963
-Version: 3.8.10.6
-Architecture: iphoneos-arm64e
-Description: Gain Full Access and Control Over Your Applications
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
-Sileodepiction: https://crazy90.com/repo/1.json
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: crazymind90
-Tag: purpose::extension
-Icon: file:///var/jb/Applications/AppEditorApp.app/AppIcon60x60@2x.png
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.crazymind90.appeditor_3.8.10.6_iphoneos-arm64e.deb
-Size: 20012876
-MD5: c5b3bff78e8affa1dddd272330500a4e
-SHA1: 8a3c6dbfd199c20209324c6b8ea8015ddd32f3d9
-SHA256: e0c2120304271dd33d6c3cd84ba58d30b1e6f5c64b8b23371617482542496b47
-SHA512: e71dace159fca9b2a6aa79d3402ac44691f0ab6fe9b4a323785e277665944a6b476bfbde25564d463113189342020cfae9a968346ba7751f32545ec4d3d5c10d
-
 Package: com.bandarhl.bhtwitter
 Name: BHTwitter
 Description: Awesome tweak for Twitter
@@ -434,25 +409,6 @@ MD5: 68a1a5c5dd84bdc632f5b024c8ebec3a
 SHA1: c405e56821cefb6bdfa9a47d73ee3ace692f0c20
 SHA256: f07f2caad3797a0c0304d59ab9cf21c91da010a9e670b162280d23582da7aea2
 SHA512: 4e12b59e17f6a0ddc961a8756285aacf1eed1fca7bb13f5ed53ba97eb4166e04c6f11f66ea2f86b71218eded42f178c870955ce8ad6b75ca74c362ac49b957db
-
-Package: net.cadoth.nosbreload
-Name: NoSBReload
-Version: 0.1.1-1
-Architecture: iphoneos-arm64e
-Description: Replace sbreload with traditional respring to fix autofill issues
-Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
-SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
-Maintainer: alexia <me@alexia.lol>
-Author: alexia <me@alexia.lol>
-Section: System
-Depends: firmware (>> 15.0)
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64e.deb
-Size: 3668
-MD5: adbe580525283f911d9b3c98529e94da
-SHA1: 56104c54540da5c36ab594048d9eb52f8d3d863b
-SHA256: 7fceead462b48cc00f913d7264da469aeb371915312f0662a2c576cd6384b899
-SHA512: af24e98c8eb986ec04ba930288974ee74141700fabc588ce5fe1d09cbf4290de33c8a25900bf4006f0a10dab45bfea39188fa4e63ca89ae039c6e0df007372cb
 
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 17.0)
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
@@ -997,28 +953,6 @@ SHA1: c7cfecd49b9d5b766808423de8a55eca25f3fec2
 SHA256: 35d0be632c16be00995dd9357f339bdc98e92f24ea93555cf0293b63c96cc944
 SHA512: e0f96336f7b6ea2a9d1b602cf4fd43263e644a3a923edffc2c1c44a7bc1df54719def8d2413353fba6af91c70ade02825920207521c4ffb742137f9e6d770c26
 
-Package: com.fouadraheb.appdata
-Name: AppData
-Description: View & Manage Applications Data from your Home Screen
-Section: Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: netskao.appdata-rootless, com.netskao.appdata
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
-Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
-Architecture: iphoneos-arm64e
-Version: 1.4.0
-Installed-Size: 792
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.appdata_1.4.0_iphoneos-arm64e.deb
-Size: 111228
-MD5: e72c5ff2837b3e000c33fa29bb7c13fd
-SHA1: a5c3c28ce9605bc0b3e12f47eeba39eb7bccccb6
-SHA256: 0ef9ba76e042e23a122441303ea70c588d97dd4042e82f289a4fff521a3b986e
-SHA512: a161dcf7a72da58687e54133cc6979ea92598cc6779e8ace3c9d9842d20243f611be7632e522092a40dfc929975516079d8c2c6d29c6aa7cc18b9618dc594c13
-
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
@@ -1099,46 +1033,6 @@ MD5: 9d29dd56391367e347b2a209627c0eaa
 SHA1: e80444f27cd53d3485f366d1034c5b7e989fd883
 SHA256: d383d15b4940b88eb5317fac095989ce5db2fdc2f96d07c968e15f3f79c4286f
 SHA512: 4ebbf9121a1375311774851bfdafc7744d542be8413ed3231983880e63799f42ecd51baa0b825c9431b030c8e84a7f3193eadf7dcc5bb15e227a29c2d3b926b9
-
-Package: com.0xkuj.iparanger
-Architecture: iphoneos-arm64e
-Name: IPA Ranger
-Version: 1.9
-Description: GUI Based Application for ipatool
-Author: 0xkuj <0xkujz@gmail.com>
-Section: Addons
-Depends: gawk, unzip, plutil
-Maintainer: 0xkuj <0xkujz@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.iparanger_1.9_iphoneos-arm64e.deb
-Size: 1125400
-MD5: e40f539b10d9d34d7dd65a3bda651b88
-SHA1: bce21483b722ab4e2cb48ea4133f7441a1299093
-SHA256: f5c652778d3a5468388396f63e8fa8dde427ef1c60074729e91ed1f479e8cd81
-SHA512: c17d28e1abb3c90425c38a5f5e8e1992ad862234daab81e818c14e17513d96a0b98389d2e5b57ae1afc91bca5ba1d7ee5c42df085af08d75d43c3083bdb31bb1
-
-Author: @CrazyMind90 <CvCrazyMind@gmail.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: CrossOverIPC ~ Rootless
-Package: cm90.crossoveripc
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Section: Tweaks
-Installed-Size: 338
-Version: 1.2-1
-Architecture: iphoneos-arm64e
-Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveripcdopamineDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crossoveripcdopamineDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: crazymind90
-Tag: purpose::extension
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/cm90.crossoveripc_1.2-1_iphoneos-arm64e.deb
-Size: 13552
-MD5: eab3aa1828d129cd9fd6c282f3fe89f8
-SHA1: b8df55d674e12c96be00b61095b80799d04d2b6f
-SHA256: c3f7954d299394a009212c3a362a6e494279bfb04b1e5513af79b90884022bbe
-SHA512: b4cfc16fbdffa6ab27a3899c2c8e3a26473173ef968cd2e7af0a515d7f25ef883d0b2706c309970b91d3748e7cb7570739db57d105b9b994ac93fadc0570b51f
 
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
@@ -1311,25 +1205,6 @@ SHA1: 8a63ed80d7a66791e5c8f2b2676e25dba17dad6f
 SHA256: b7f64e014f3e8a7c7a3d68a6c9a6375c03551a3a2af45b91555c7c989eca6d55
 SHA512: 9c69254433cccd04c6093ba5eb20033df3276c1d055223e420b3b406d913cff3923a71e3f7fe51bf0cde14af9a38bad313aedd11dbbcf3c9f4e25a56df2558b0
 
-Package: com.sparklechan.swifty
-Name: FridaCodeManager
-Version: 1.5.4.2
-Architecture: iphoneos-arm64e
-Description: Full fledged Xcode-like IDE for iOS
-Depends: curl, swift, zip, ldid, unzip, clang
-Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
-Conflicts: com.sparklechan.sparkkit
-Maintainer: FCCT
-Author: FCCT
-Section: Utilities
-Tag: role::hacker
-Filename: ./debs/com.sparklechan.swifty_1.5.4.2_iphoneos-arm64e.deb
-Size: 3174852
-MD5: 0145e32fce9d7cbf292b27bfd293c035
-SHA1: c1975c8082e0a61a22f7f202769f5faad09bb573
-SHA256: 6ea4160a2423f149ee4f4120814df5a6ce620b416e0bb201e779b24263a360b2
-SHA512: 9d30001d428c9458741eb44f71a7cb36f80cad256e4679c1a5585d0d953d77b72fd7f7a2f2b996c93e8d3bd833822371071b562b588f75006624cd7d65f1a3e1
-
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.12.7
 Architecture: iphoneos-arm64e
@@ -1434,24 +1309,6 @@ MD5: 8c98e46f831d27d2af5df063a2fd477f
 SHA1: 9a511192f68251ece666a7ff4054e523b06ed9e9
 SHA256: f50b3db168e5dae5c868ef35b6bade8ba91d1c026cb2ed9ece3a4c76769ea8b3
 SHA512: da92f950726d3831f2c945a6e7e2d924db8e3fdb366a561801dd1b18639a9ee07db83d4524085da891dce77e7c75259eeac6af1e9cd1175696e41bf8be97a289
-
-Package: com.opa334.cranelite
-Name: Crane Lite
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Description: Multiple containers for one application!
-Maintainer: opa334
-Author: opa334
-Section: Tweaks
-Architecture: iphoneos-arm64e
-Version: 1.3.16
-Installed-Size: 2184
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.opa334.cranelite_1.3.16_iphoneos-arm64e.deb
-Size: 333520
-MD5: 828915e3f37a8d1d56e7b7d2b5f757f3
-SHA1: eff3b4cc17e3a1939953d49871d2dd3902931855
-SHA256: c53bf44e12e458db6227b75d1616fcf86e30c83be3171ab29c6942de7310eb71
-SHA512: 5d6ad2c5749ce5580f3adbc0adeb7ab79a3f85d838100045bfbb04cec45f0328bcd3f7d5c3cc276540b53fae353377170c5750ee7f6b33a7a6111f66e6981247
 
 Package: jp.r-plus.menusupport
 Name: MenuSupport

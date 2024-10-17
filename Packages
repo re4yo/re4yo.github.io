@@ -1,3 +1,20 @@
+Package: com.yourepo.cydiageek.wiredock
+Architecture: iphoneos-arm64e
+Name: WireDock
+Version: 0.0.1-1
+Description: Turns the dock into a customizable outline
+Author: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Maintainer: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.yourepo.cydiageek.wiredock_0.0.1-1_iphoneos-arm64e.deb
+Size: 19604
+MD5: a4281e6640e8eb6f7383740f4f90057f
+SHA1: 50ebf0f0952c785bea42e6c74a76dca891ab1deb
+SHA256: 049c00cb5316e8248634a01fc7e0b7314169eacafc7fd323360ce157a485eab8
+SHA512: 4c6860450905973e8d6ed8fc98b29aeb252312bcf1c5d2031d6d51c5537cda1c1c94d79f1ab02a550d990e5bc34e2dec589a684b9cb97113c5998edf19ccb918
+
 Package: xyz.skitty.ersatz
 Name: Ersatz
 Depends: mobilesubstrate, preferenceloader

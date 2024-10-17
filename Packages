@@ -9,13 +9,12 @@ Architecture: iphoneos-arm64e
 Version: 1.4-5
 Installed-Size: 848
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/
-com.netskao.dumpdecrypter_1.4-5_iphoneos-arm64e.deb
-Size: 348644
 MD5: 713adc2d4a756717f2186e98982c6467
 SHA1: a9914e47f7e1ff0b3a7c6685f0d352890dffd0fb
 SHA256: b59dd2c5f5fdc87b0cad3ef4f6cb71478c7e7d78aeab43adc731f52aa92ba76b
 SHA512: b9d7f5f5496e75a05098c0e1175a5c76bd0235f1f9d61c7fdf23a60bb58e19003d4f64f8150ec1d06e2bb1a3d60979c2a70a16bf3c5f17f30d4c7b81b6027f00
+Filename: ./debs/com.netskao.dumpdecrypter_1.4-5_iphoneos-arm64e.deb
+Size: 348644
 
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e

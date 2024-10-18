@@ -6,15 +6,15 @@ Depends: firmware (>= 15.0), mobilesubstrate
 Author: Netskao
 Maintainer: Nets
 Architecture: iphoneos-arm64e
-Version: 1.4-5
+Version: 1.4-6
 Installed-Size: 848
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 713adc2d4a756717f2186e98982c6467
-SHA1: a9914e47f7e1ff0b3a7c6685f0d352890dffd0fb
-SHA256: b59dd2c5f5fdc87b0cad3ef4f6cb71478c7e7d78aeab43adc731f52aa92ba76b
-SHA512: b9d7f5f5496e75a05098c0e1175a5c76bd0235f1f9d61c7fdf23a60bb58e19003d4f64f8150ec1d06e2bb1a3d60979c2a70a16bf3c5f17f30d4c7b81b6027f00
-Filename: ./debs/com.netskao.dumpdecrypter_1.4-5_iphoneos-arm64e.deb
-Size: 348644
+Filename: ./debs/com.netskao.dumpdecrypter_1.4-6_iphoneos-arm64e.deb
+Size: 350384
+MD5: 38a047ff73f7544059ece343ae6f4a64
+SHA1: 7b7276dac2b987ba026006c54a0b87c14908596d
+SHA256: acfdacf954ad0c69ae56d948918fb38e7ce808312220f1d0302a36a9d9597812
+SHA512: 96334d5d0caa1f1a470422658c17cf0b5c1aa1227901c80a100b774a8770037fc680b7a68f800d76b253d41244996d18082f9613907b47f46dc94b9f847664a8
 
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e

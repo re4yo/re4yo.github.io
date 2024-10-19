@@ -1,3 +1,24 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.0~b13
+Installed-Size: 6252
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.regram_1.0~b13_iphoneos-arm64e.deb
+Size: 1342840
+MD5: e9a19507938a4b6633d2571b75376f2a
+SHA1: f1877ae261fbdfa56e48c52fc847fcad049be135
+SHA256: dfd888200295499c0d689e5b83cd33e26a58c8c01894ae2705125183e44f4e0f
+SHA512: 83e9c847854295643ba90ed22349c1810dd262dc7e050d621f78982b89d8fce076904305ea7d67f482308ceb1ef6d598226d231f58b235ba347c1a03b6a04647
+
 Package: com.netskao.dumpdecrypter
 Name: DumpDecrypter
 Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1

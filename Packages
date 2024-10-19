@@ -32,6 +32,7 @@ Installed-Size: 848
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.netskao.dumpdecrypter_1.4-6_iphoneos-arm64e.deb
 Size: 350384
+Icon: https://i.imgur.com/YIc03qk.jpeg
 MD5: 38a047ff73f7544059ece343ae6f4a64
 SHA1: 7b7276dac2b987ba026006c54a0b87c14908596d
 SHA256: acfdacf954ad0c69ae56d948918fb38e7ce808312220f1d0302a36a9d9597812

@@ -1,3 +1,20 @@
+Package: net.kayoko
+Maintainer: 82flex
+Version: 2.5
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Name: Kayoko
+Author: Traurige
+Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/net.kayoko_2.5_iphoneos-arm64e.deb
+Size: 174724
+MD5: 02469facbbba984e20b4f5e3d1413e68
+SHA1: 20fb25c83596f74170c546696239a469ed380e39
+SHA256: c368ee20aaf1bb59c696670184f3fba23834fef93da6fd79d4552d46bcd10663
+SHA512: 7f4bc5fc58a2382fc378c49a405ec9e0e09fca77e21c6a972028c3c0233f1f0262ea24f4f002adce1e4c387cb5c3a860a1930d5271ac4554c5b1852b3fb26710
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram

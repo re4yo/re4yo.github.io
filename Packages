@@ -1,3 +1,20 @@
+Package: com.dvntm.cc18
+Name: CC18
+Description: Round CC modules replication, like in iOS 18
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 152
+Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64e.deb
+Size: 4294
+MD5: 289ed9620f73f5112bf20d7b6e2cc46c
+SHA1: 731e017f13c7beda1c342cb583b0d63eae201a4c
+SHA256: 97e489aeebc25df1d6618bcb3c5dc8c4dae2b7fb97416d57ce0cb14d8f11f654
+SHA512: ef7e2befc7095504da2535c752705bbafb2f0426951b376e3166da702d99a1e14e949a1a3940050dff37b3cdb2b327997d02f35a479784e42981e83617792277
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3

@@ -1,3 +1,42 @@
+Package: dev.traurige.eneko
+Name: Eneko
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Live wallpapers for iOS
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64e.deb
+Size: 28328
+MD5: c8f2c2b4e813069b2e0056524c51307a
+SHA1: 07c44afd391301339c6f031d5506e00de75ae58f
+SHA256: f40a0d5503bc97db537cc84e5ec74609855bd2c3d2c008726330a8623a531836
+SHA512: c39cd8a15065ce59a08e651aec18e6d7af032b079f22a3eeab8ad9664e1851c9096c880f1c88cb1ac0476c946aac285dc6bc3c0fa7832f4f1ecc4ba1f228a69e
+
+Package: com.mrgcgamer.libgcuniversal
+Name: LibGcUniversal
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Description: An awesome library of some sort!!
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 53276
+MD5: babb07f6813cf4f98e0dcf72b92d1afb
+SHA1: 6bffe79c4eca4b60a92a3ed77b29a3aa72aaf284
+SHA256: 04bc7f8549aee7a270af0896257710d3902cfa30d5f2ba47b1085a467bf25e4f
+SHA512: 11c1c74279ccb8241a3defb5cfdddf42c7a1b7a819ec12d9fc558e6436db3e2abd001662df88852a459a5282a259ea0767929b088cee283e37f2da383df5098d
+
 Package: com.dvntm.cc18
 Name: CC18
 Description: Round CC modules replication, like in iOS 18

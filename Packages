@@ -1,3 +1,29 @@
+Name: BlockAppUpdate
+Package: cn.zqbb.disupdateapp
+Priority: optional
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Description: Block App Store Updates!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 732
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cn.zqbb.disupdateapp_1.1.0-1_iphoneos-arm64e.deb
+Size: 130832
+MD5: e4f2d93bf0cd62ed6483871ef9d8a84f
+SHA1: ccef39df8eb9747bebd30c055d0c2d117f8f4249
+SHA256: 9da21b05a77be8936a4094bb07419686db0b69c6905d5412cfd82c364acda456
+SHA512: 5f64990e8371395e6d451bf776df613736504cf8462158fbd873bf909a422d1b6eaf94ab3097c0a72351d8b139a29c680e262eb7b7b02ebd8c8b39540ef856ac
+
 Package: com.jontelang.snapper3
 Name: Snapper 3
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader

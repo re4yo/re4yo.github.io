@@ -134,25 +134,6 @@ SHA1: f1877ae261fbdfa56e48c52fc847fcad049be135
 SHA256: dfd888200295499c0d689e5b83cd33e26a58c8c01894ae2705125183e44f4e0f
 SHA512: 83e9c847854295643ba90ed22349c1810dd262dc7e050d621f78982b89d8fce076904305ea7d67f482308ceb1ef6d598226d231f58b235ba347c1a03b6a04647
 
-Package: com.netskao.dumpdecrypter
-Name: DumpDecrypter
-Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
-Section: Netskao-Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate
-Author: Netskao
-Maintainer: Nets
-Architecture: iphoneos-arm64e
-Version: 1.4-6
-Installed-Size: 848
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.netskao.dumpdecrypter_1.4-6_iphoneos-arm64e.deb
-Size: 350384
-Icon: https://i.imgur.com/YIc03qk.jpeg
-MD5: 38a047ff73f7544059ece343ae6f4a64
-SHA1: 7b7276dac2b987ba026006c54a0b87c14908596d
-SHA256: acfdacf954ad0c69ae56d948918fb38e7ce808312220f1d0302a36a9d9597812
-SHA512: 96334d5d0caa1f1a470422658c17cf0b5c1aa1227901c80a100b774a8770037fc680b7a68f800d76b253d41244996d18082f9613907b47f46dc94b9f847664a8
-
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e
 Name: WireDock
@@ -232,7 +213,7 @@ Depends: mobilesubstrate, com.opa334.ccsupport
 Description: Force 2G/3G/4G/5G connection from the Control Center
 Maintainer: Nixuge
 Author: NoisyFlake, Nixuge
-Section: Control Center (Modules)
+Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 1.4.3
 Installed-Size: 396
@@ -694,7 +675,7 @@ Version: 7.10.0
 Architecture: iphoneos-arm64e
 Homepage: http://ib-soft.net/icleaner
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Section: Utilities
+Section: Applications
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Icon: file:///Applications/iCleaner.app/Icon.png
 Pre-Depends: rootless-compat(>= 0.9)
@@ -711,7 +692,7 @@ Name: PowerSelector
 Package: com.ichitaso.powerselector11
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Section: Utilities
+Section: Applications
 Description: The power supply relation of a device is operated.
 Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
 Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
@@ -1618,7 +1599,7 @@ SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/refs/hea
 Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: TIGI Software <satashi2009@gmail.com>
-Section: Utilities
+Section: Applications
 Tag: purpose::uikit
 Installed-Size: 9121
 dev: satashi2009

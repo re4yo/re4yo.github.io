@@ -5,9 +5,9 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Version: 1.1.0-1
 Architecture: iphoneos-arm64e
 Description: Block App Store Updates!
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Homepage: http://moreinfo.thebigbos.org/moreinfo/depiction.php?file=disupdateappDp
+Depiction: http://moreinfo.thebigbos.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq66.eu.org/web/cn.zqbb.orzfolder
 Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: zqbb <w2599z@gmail.com>

@@ -1,3 +1,21 @@
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Installed-Size: 6664
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.5.8_iphoneos-arm64e.deb
+Size: 2068376
+MD5: 6381125c2b7bf6650de86fd6878db9a8
+SHA1: 5c74186edcece12e71ad3db96b5c53216ffabc9d
+SHA256: d3b99c450ed39ba202e47178a7fc8e701080d76980ed3cc8b75362bbcb5bde88
+SHA512: c2606fee7295c078aca62e699f5985170ad046c33185f719528bf8bd285f5527c71a6cac35c198abd6af03e43a8fbcfa6a92b686e364bc510f7b06a29c927994
+
 Name: NoEditPages
 Package: com.cydiageek.noeditpages
 Priority: optional

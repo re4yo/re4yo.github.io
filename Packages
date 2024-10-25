@@ -1,3 +1,25 @@
+Name: NoEditPages
+Package: com.cydiageek.noeditpages
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 14.0)
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Description: Disable Edit Pages iOS 14+ Feature!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpagesDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpagesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 173
+dev: lucaluca86
+Filename: ./debs/noeditpages_1.0.1.deb
+Size: 3212
+MD5: 45d492f5e85c9a0f1b173c275a26463f
+SHA1: ba516bb58d1777c62c407d9436c05ea46e6a596f
+SHA256: 61c880b854c058bbe90a6d4b63e9df343067e42249b1a3a459fc35dc40048b3c
+
 Package: dev.traurige.eneko
 Name: Eneko
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal

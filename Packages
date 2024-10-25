@@ -1,3 +1,22 @@
+Package: com.jontelang.snapper3
+Name: Snapper 3
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Description: Pin screenshots on the screen.
+Maintainer: Jonathan Winger-lang
+Author: Jonathan Winger-lang
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Installed-Size: 4148
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 1022696
+MD5: c3041ca374f1dc157b273b764b2189b2
+SHA1: c12624d48926d3dc72cec613459e2b5c8fe1d06a
+SHA256: 3dbeb55f738be6598e11f3fa755c55c26ea3a39ffbf64bfc476dbc684aea8003
+SHA512: 89a8f3fb9727c463ec011dfe4ecf22bf4bed62e0cff7a19015fa14920337872d57845a9f5e250b9b909ae8528624e1211e29c218b58e6e9cb1235d766d7dc286
+
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard

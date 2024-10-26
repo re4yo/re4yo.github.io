@@ -1,6 +1,6 @@
 Package: com.0xkuj.ccadsbegone.rootless
 Architecture: iphoneos-arm64e
-Name: CCAdsBeGone (rootless)
+Name: CCAdsBeGone
 Version: 1.1
 Description: CC Toggle to block ads on demand!
 Author: 0xkuj <0xkujz@gmail.com>

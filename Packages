@@ -969,12 +969,12 @@ Architecture: iphoneos-arm64e
 Version: 1.2.1
 Installed-Size: 140
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: /debs/com.ps.letmeblock_1.2.1_iphoneos-arm64e.deb
-Size: 5580
-MD5: 3cb1b894ba04ca78e2e7128f733260df
-SHA1: ea9a0e63ca4caa2c3b1bf8cc2e18fc5a99ab4d53
-SHA256: f6f92416d60921161993a0ae7c95a3672969bbb58edf7ebe721dd6eb4409c6f5
-SHA512: 009838760b9ddd13104b3fa10ec9d83f18d39e1a30cb8125c47835069d4a462017bd2e4474a10748986f1cdf5cd0401205663a22f0667c2aeeb985e2901efc23
+Filename: ./debs/com.ps.letmeblock_1.2.1_iphoneos-arm64e.deb
+Size: 7850
+MD5: 3a5e2f4e57cc8dfca3b711d805b2abc3
+SHA1: 26766600d7a23d67a95224e690eecccd7087f3b8
+SHA256: 557a8a3d73326ce5aaf9f27bce5b45037b11a9a7e8af37b505eb15bc86672c5f
+SHA512: 13be31f12731274c53e6d5be6d989aa9f617329a44a809768ce7ff37c68300c76ffc2a897291bce5eb610130af6ac532ff603189cbc7eb051d261329e4d86a4b
 
 Package: com.ps.replaykitmax
 Name: ReplayKit Max

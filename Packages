@@ -1,21 +1,3 @@
-Package: com.0xkuj.ccadsbegone.rootless
-Architecture: iphoneos-arm64e
-Name: CCAdsBeGone
-Version: 1.1
-Description: CC Toggle to block ads on demand!
-Author: 0xkuj <0xkujz@gmail.com>
-Section: Tweaks
-Depends: com.opa334.ccsupport, com.ps.letmeblock
-Conflicts: com.0xkuj.ccadsbegone
-Maintainer: 0xkuj <0xkujz@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.ccadsbegone.rootless_1.1_iphoneos-arm64e.deb
-Size: 139288
-MD5: 71df1c7c1e32c608f0d9ce41185e6a55
-SHA1: 93579eab3e779023aab375b75447a4618872589c
-SHA256: e80dcfdeaa1d9b91cb8605a2cf530b0b9ccac145e2de37773621e519c42b57e9
-SHA512: 725d78e3a6b9b2452d7c5754abfcc6a791d180b2d25a86b672a6e83ba3c81b257fe97bb4f6f766393d3fe91eccf751c7ee0fc451d6c15aebabbb3196d532e9eb
-
 Name: BlockAppUpdate
 Package: cn.zqbb.disupdateapp
 Priority: optional

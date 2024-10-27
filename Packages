@@ -1,3 +1,24 @@
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Name: PopOutButtons
+Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Depiction: https://chariz.com/get/popoutbuttons
+Tag: compatible_min::ios13.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.0_iphoneos-arm64e.deb
+Size: 52452
+MD5: 2d24907658d306c21030d0c94fff594d
+SHA1: 4de9839df6440eac21b9ba7181cf481c71105e03
+SHA256: c311f88da21da8bf57529bde9fa8cdcd95194d878c82abde0de36cbb3513131e
+SHA512: dad9dcbd26f57b31f0122265b2cab6d7849e12017f464903d75670fea6d1da5517497c4aa4482fcc9e50a36f259da60b22df95e8ce94c58a432b68295e57ce31
+
 Name: BlockAppUpdate
 Package: cn.zqbb.disupdateapp
 Priority: optional

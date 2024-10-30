@@ -1,3 +1,60 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.2.43
+Installed-Size: 6660
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.43_iphoneos-arm64e.deb
+Size: 1958208
+MD5: afc6ffe471fdc464e2d6097d302ba90a
+SHA1: d5c7f78d6798619b294a609a8a29bd207f129051
+SHA256: 4a70b0ac8e695b52c0c1ab6b3f2fd429c9e58cc40bf85bdc0f30130aaeccb605
+SHA512: 29aa72ebb5432e5850df376e3038a31e4482924605206d68cda38fedc5988befed97c0aec384b15612e32f10e34a67b4ba6af03747c0cec3646f481dbdd061d7
+
+Package: com.dvntm.cmm
+Name: CallMeMaybe
+Description: Enhancer for the system Phone app
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 264
+Filename: ./debs/com.dvntm.cmm_1.0_iphoneos-arm64e.deb
+Size: 33948
+MD5: 8ab233b7c0a0ae3fc50b1a81d66f7620
+SHA1: 84e543f8c3c53d911a88ee06855ccd99d3636331
+SHA256: 621500489ddf84d079cb93d8c782d3c85e3b34a11f653113ddfa3e0c73056afb
+SHA512: c2a87a58839392cc186d49f258598bf752910da56338c9ceee01cd07cfb5ac1bc8f9fa9dbffb8e2714466cc9195ede8cfd4ffa84cc68177a80f20e505e541128
+
+Package: com.den.igformat
+Name: IGFormat
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.1-162+debug
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.den.igformat_0.0.1-162+debug_iphoneos-arm64e.deb
+Size: 26452
+MD5: 13d64f05ef71ad8b233945e8e4179241
+SHA1: 4917b80e140f6d3d158880c2702bd0d61fb40c78
+SHA256: 34dcbd1269a7222fe34bfeb6430a0396845cb1f2dc009a848c8bf54b7e46cac8
+SHA512: e35d5775d8bdec4f34e37e672741fe11d846bf1e38ce38c8b8edbbfa215f5964a8aa5a5402f8b741612cdd7a0b68e2c1d77dddc3f63050fd4145dcbd6300c521
+
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.0
 Architecture: iphoneos-arm64e

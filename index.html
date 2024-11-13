@@ -12,61 +12,83 @@
     font-family: Arial, sans-serif;
     background: url('./file/back.jpg') no-repeat center center fixed;
     background-size: cover;
-    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #fff;
   }
 
   #profile-box {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
-    color: white;
-    background: rgba(0, 0, 0, 0.6);
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
-    width: 250px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 40px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  #profile-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.7);
   }
 
   #profile-box img {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+  }
+
+  #profile-box h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: #f0f0f0;
+  }
+
+  #profile-box p {
+    font-size: 1rem;
+    font-style: italic;
+    color: #b0c4de;
+    margin-bottom: 20px;
   }
 
   .button-container a {
-    display: block;
-    margin: 5px auto;
-    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8px auto;
+    padding: 12px;
     color: white;
-    background: #333;
-    border-radius: 5px;
+    background: #3b5998;
+    border-radius: 8px;
     text-decoration: none;
-    transition: background 0.3s;
+    transition: background 0.3s, transform 0.2s;
     width: 80%;
-    text-align: center;
   }
 
   .button-container a:hover {
-    background: #555;
+    background: #4c669f;
+    transform: scale(1.05);
   }
 
   .button-container a i {
-    margin-right: 5px;
+    margin-right: 8px;
+    font-size: 1.2rem;
   }
 </style>
 </head>
 <body>
   <div id="profile-box">
     <img src="./file/profile.jpg" alt="Profile Picture">
-    <h2 style="white-space: nowrap;">Ahmed AlGhrbi</h2>
+    <h2>Ahmed AlGhrbi</h2>
     <p>سبحان الله وبحمده</p>
     <div class="button-container">
-      <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i> Repo</a>
-      <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
-      <a href="https://t.me/ipapplus" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
+      <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i>Repo</a>
+      <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
+      <a href="https://t.me/ipapplus" target="_blank"><i class="fab fa-telegram"></i>Telegram</a>
     </div>
   </div>
 </body>

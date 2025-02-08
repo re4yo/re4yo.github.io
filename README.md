@@ -74,6 +74,17 @@ git push
 ```sh
 git pull origin main
 ```
+
+---
+
+## 7. شرح عملي بالفيديو  
+لمشاهدة شرح عملي لجميع الخطوات، يمكنك متابعة الفيديو التالي:  
+[**مشاهدة الفيديو**](https://mega.nz/file/MqhlASiQ#ihOzpDlEq8wCj6Q0qh0kywXxW765yt_Zh1GjuPRUEbk)
+```
+
+```sh
+git pull origin main
+```
 ```
 video : https://mega.nz/file/MqhlASiQ#ihOzpDlEq8wCj6Q0qh0kywXxW765yt_Zh1GjuPRUEbk
 ```md

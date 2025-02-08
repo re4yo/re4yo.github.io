@@ -1,3 +1,19 @@
+Package: com.yourepo.ibreak.hideseparator
+Architecture: iphoneos-arm64e
+Version: 1.9.3
+Section: Tweaks
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs//com.yourepo.ibreak.hideseparator_1.9.3_iphoneos-arm64e.deb
+Size: 9130
+MD5sum: 36d9823775059b4925bba957b0cf4f18
+SHA1: dc8d3c708251c739a95b474d1fd64277c7a6eaf5
+SHA256: 2d571e93ac462643717ab54c21fdf6db29bb50a90e02c30cfec9711204318abe
+SHA512: 803a1971e8a2c557909f3ae0fbe4df512852cb69fe65df8f3afc3a1f45c00b0cc87374471704e9e501b21c8c23450b9688216d80cca6464579b68d14052fe2ed
+Description: Hide separators system-wide  (including third-party Apps)
+Name: Hide Separator
+Author: iBreak <ibreak2019@qq.com>
+
 Package: jp.uzra.enabledsreturn
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -15,7 +31,6 @@ SHA512: f282d863033cf36822fdbd4076b298e25d3bd5b6fdd62b146cdcc8e59d6128d75ba3e7cb
 Description: Enable return on DeepSeek iOS app
 Name: EnableDSReturn
 Author: uz.ra
-Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm64e

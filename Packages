@@ -15,4 +15,22 @@ SHA512: f282d863033cf36822fdbd4076b298e25d3bd5b6fdd62b146cdcc8e59d6128d75ba3e7cb
 Description: Enable return on DeepSeek iOS app
 Name: EnableDSReturn
 Author: uz.ra
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs//sa.ipapplus.autorepomanager_1.0_iphoneos-arm64e.deb
+Size: 2600
+MD5sum: 4b45d616c8a01fd50853b889661147f5
+SHA1: 0b207165399c5297b46bc9a021efbba7d6abadec
+SHA256: 0717448f53a468fba253c595e335d3dffc3799bfd5498cdc7604c9b6e22d787c
+SHA512: 4f905d3c00ad321008585da27933cd042d29788895e413d5ffbe5a90bf90d7d0b46d4b8340f014bfd818f2786121f09ee88c1171bf3c40750986f2290ec91c12
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
 

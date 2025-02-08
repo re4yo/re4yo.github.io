@@ -75,7 +75,7 @@ git push
 git pull origin main
 ```
 ```
-
+video : https://mega.nz/file/MqhlASiQ#ihOzpDlEq8wCj6Q0qh0kywXxW765yt_Zh1GjuPRUEbk
 ```md
 # Complete Guide to Logging into Git and Pushing Changes on iOS  
 

@@ -1,0 +1,61 @@
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 4.4
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm.deb
+Size: 6711092
+MD5sum: 20bd4540a98dbb921e3f4ff198117542
+SHA1: 2241b4fd00d273b5e3c97f992b1f1fa8b7514841
+SHA256: 04876f87e196bf776d0c21d4b4c8092ab98e9e97e7c41c8cd51caceee0797e3b
+SHA512: 6e023f4e29d6df2f48b3c4e5f3913d8d50d2138f8afce2d8c80e7ffe27789817ec44040ef980f672d4e69c6cf43bdcc14ba4e3c9117460e9174656266136aa7b
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.4
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64.deb
+Size: 6621916
+MD5sum: cc9e57e8c66a9c99fc5edc2f06715e34
+SHA1: f5616e30370937812b4407cd2453d1f960e1ec37
+SHA256: fab3e4a782bbc6d221d9a288a3ed513ca010596a00c4169e2767bee309455874
+SHA512: a32502bc00ae2257be8f357d2884b6ec67c8cf6f5605a789e3d13b34e1468c81711f5842f9b726add098a6f2cc80bfcffc5b7929d6728234284e5e52311a522b
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.4
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64e.deb
+Size: 6617168
+MD5sum: 030625039674a1825f0b73e97a6e4c13
+SHA1: 0e7427c5f890b1be7b34993c9867839fcc195865
+SHA256: b674a7f9ec680054f4e404e6303f0c563827ccd326480734ff1c84cb374cd50b
+SHA512: 84a4fe23297a8d03fccbdc703f204349b64a9eb62d9102cc87dbf4cc2195a21def52c16705ce4b8a603e7e4aa6866e0c8170e9a1638b432cfeb8cd384eecd6b6
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/depiction.json
+Icon: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/icon.png
+Header: https://raw.githubusercontent.com/re4yo/re4yo.github.io/main/files/depiction/com.bandarhl.bhtwitter/header.png
+

@@ -1,3 +1,51 @@
+Package: a7m.dev.repo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: a7m.dev
+Depends: com.tigisoftware.filza64bit, theos-dependencies, apt-utils, bzip2, zstd, ws.hbang.newterm3
+Filename: ./debs/a7m.dev.repo_1.0_iphoneos-arm.deb
+Size: 748
+MD5sum: bed64a5fb5997b457f62d38cd1362c97
+SHA1: 4218001cd9218e680a536c1757ef547427de6e47
+SHA256: e415b08d1aeb500603cf959e1847b1aa8bcd0913a724454f029260b7f57e104d
+SHA512: ff2811c7994e8c69e7ddf5d8ece6b10df148069bdc644b388c142886f6259090ae9ec52a7f4064963566b7f8a18a1f2e058192b3b6d6deb55e568711d5dbd210
+Description: Awesome tweak
+Name: repo dependencies
+Author: a7m.dev
+
+Package: a7m.dev.repo
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: a7m.dev
+Depends: com.tigisoftware.filza64bit, theos-dependencies, apt-utils, bzip2, zstd, ws.hbang.newterm3
+Filename: ./debs/a7m.dev.repo_1.0_iphoneos-arm64.deb
+Size: 752
+MD5sum: 64b898f4c537da038c19fb8be89b4f84
+SHA1: 484aba7d419b0300ba9de42193bbb16ac33b00ac
+SHA256: ee47c07a2a03b42a6a345e28c579b1b9fb5356c69b3ad6c2089dcab6610249f4
+SHA512: 229f82aa506b39b9697322d872c8e430c3c003e2c29175dc926b32320a6f00276df0ea15977984698dcfb79ec2160fe9a050c7b13106e8abddd6fe59b21090d9
+Description: Awesome tweak
+Name: repo dependencies
+Author: a7m.dev
+
+Package: a7m.dev.repo
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: a7m.dev
+Depends: com.tigisoftware.filza64bit, theos-dependencies, apt-utils, bzip2, zstd, ws.hbang.newterm3
+Filename: ./debs/a7m.dev.repo_1.0_iphoneos-arm64e.deb
+Size: 752
+MD5sum: 1a2124274028eb491ff5485d76f530c9
+SHA1: 6b191f2713101472a0bd4564233f51084e13a731
+SHA256: 6197453e6c645c5c6adf955e5850e10cedc014d824c4cbd41277b238cf4994c2
+SHA512: f3be0dfdfa5deb4c36f8c4f50abdad03e7b2eb0b54dd55e8a4f8e7b3c1e92d97222287c51e86361191d1c65cf6065308835f160b7eb31426910d9486760c60fa
+Description: Awesome tweak
+Name: repo dependencies
+Author: a7m.dev
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
 Version: 4.4
